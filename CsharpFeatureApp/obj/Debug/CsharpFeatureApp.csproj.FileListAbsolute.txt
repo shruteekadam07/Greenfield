@@ -1,0 +1,7 @@
+C:\Users\shruti.kadam\source\repos\ECommerce\CsharpFeatureApp\bin\Debug\CsharpFeatureApp.exe.config
+C:\Users\shruti.kadam\source\repos\ECommerce\CsharpFeatureApp\bin\Debug\CsharpFeatureApp.exe
+C:\Users\shruti.kadam\source\repos\ECommerce\CsharpFeatureApp\bin\Debug\CsharpFeatureApp.pdb
+C:\Users\shruti.kadam\source\repos\ECommerce\CsharpFeatureApp\obj\Debug\CsharpFeatureApp.csproj.AssemblyReference.cache
+C:\Users\shruti.kadam\source\repos\ECommerce\CsharpFeatureApp\obj\Debug\CsharpFeatureApp.csproj.CoreCompileInputs.cache
+C:\Users\shruti.kadam\source\repos\ECommerce\CsharpFeatureApp\obj\Debug\CsharpFeatureApp.exe
+C:\Users\shruti.kadam\source\repos\ECommerce\CsharpFeatureApp\obj\Debug\CsharpFeatureApp.pdb
