@@ -1,0 +1,6 @@
+C:\Users\shruti.kadam\source\repos\ECommerce\Orderprocessing\bin\Debug\Orderprocessing.dll
+C:\Users\shruti.kadam\source\repos\ECommerce\Orderprocessing\bin\Debug\Orderprocessing.pdb
+C:\Users\shruti.kadam\source\repos\ECommerce\Orderprocessing\obj\Debug\Orderprocessing.csproj.AssemblyReference.cache
+C:\Users\shruti.kadam\source\repos\ECommerce\Orderprocessing\obj\Debug\Orderprocessing.csproj.CoreCompileInputs.cache
+C:\Users\shruti.kadam\source\repos\ECommerce\Orderprocessing\obj\Debug\Orderprocessing.dll
+C:\Users\shruti.kadam\source\repos\ECommerce\Orderprocessing\obj\Debug\Orderprocessing.pdb

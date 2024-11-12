@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewBag.Title = "OrderView";
+}
+
+<main>
+    <h2>Order Details</h2>
+    <div class="row">
+
+        @{
+            foreach (EcommerceWebApp.Models.Order p in @Model)
+            {
+                <p>@p.OrderAmount @p.OrderStatus @p.OrderId </p>
+
+            }
+        }
+
+    </div>
+</main>
+

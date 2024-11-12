@@ -1,0 +1,6 @@
+C:\Users\shruti.kadam\source\repos\ECommerce\Delegation\bin\Debug\Delegation.dll
+C:\Users\shruti.kadam\source\repos\ECommerce\Delegation\bin\Debug\Delegation.pdb
+C:\Users\shruti.kadam\source\repos\ECommerce\Delegation\obj\Debug\Delegation.csproj.AssemblyReference.cache
+C:\Users\shruti.kadam\source\repos\ECommerce\Delegation\obj\Debug\Delegation.csproj.CoreCompileInputs.cache
+C:\Users\shruti.kadam\source\repos\ECommerce\Delegation\obj\Debug\Delegation.dll
+C:\Users\shruti.kadam\source\repos\ECommerce\Delegation\obj\Debug\Delegation.pdb

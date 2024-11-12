@@ -1,0 +1,6 @@
+C:\Users\shruti.kadam\source\repos\ECommerce\Penalty\bin\Debug\Penalty.dll
+C:\Users\shruti.kadam\source\repos\ECommerce\Penalty\bin\Debug\Penalty.pdb
+C:\Users\shruti.kadam\source\repos\ECommerce\Penalty\obj\Debug\Penalty.csproj.AssemblyReference.cache
+C:\Users\shruti.kadam\source\repos\ECommerce\Penalty\obj\Debug\Penalty.csproj.CoreCompileInputs.cache
+C:\Users\shruti.kadam\source\repos\ECommerce\Penalty\obj\Debug\Penalty.dll
+C:\Users\shruti.kadam\source\repos\ECommerce\Penalty\obj\Debug\Penalty.pdb

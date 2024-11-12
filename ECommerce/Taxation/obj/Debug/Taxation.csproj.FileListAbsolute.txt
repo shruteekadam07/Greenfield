@@ -1,0 +1,6 @@
+C:\Users\shruti.kadam\source\repos\ECommerce\Taxation\bin\Debug\Taxation.dll
+C:\Users\shruti.kadam\source\repos\ECommerce\Taxation\bin\Debug\Taxation.pdb
+C:\Users\shruti.kadam\source\repos\ECommerce\Taxation\obj\Debug\Taxation.csproj.AssemblyReference.cache
+C:\Users\shruti.kadam\source\repos\ECommerce\Taxation\obj\Debug\Taxation.csproj.CoreCompileInputs.cache
+C:\Users\shruti.kadam\source\repos\ECommerce\Taxation\obj\Debug\Taxation.dll
+C:\Users\shruti.kadam\source\repos\ECommerce\Taxation\obj\Debug\Taxation.pdb

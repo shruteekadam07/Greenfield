@@ -1,0 +1,6 @@
+C:\Users\shruti.kadam\source\repos\ECommerce\AuthSerialization\bin\Debug\AuthSerialization.dll
+C:\Users\shruti.kadam\source\repos\ECommerce\AuthSerialization\bin\Debug\AuthSerialization.pdb
+C:\Users\shruti.kadam\source\repos\ECommerce\AuthSerialization\obj\Debug\AuthSerialization.csproj.AssemblyReference.cache
+C:\Users\shruti.kadam\source\repos\ECommerce\AuthSerialization\obj\Debug\AuthSerialization.csproj.CoreCompileInputs.cache
+C:\Users\shruti.kadam\source\repos\ECommerce\AuthSerialization\obj\Debug\AuthSerialization.dll
+C:\Users\shruti.kadam\source\repos\ECommerce\AuthSerialization\obj\Debug\AuthSerialization.pdb

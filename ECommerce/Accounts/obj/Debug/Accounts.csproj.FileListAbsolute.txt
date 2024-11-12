@@ -1,0 +1,9 @@
+C:\Users\shruti.kadam\source\repos\ECommerce\Accounts\bin\Debug\Accounts.dll
+C:\Users\shruti.kadam\source\repos\ECommerce\Accounts\bin\Debug\Accounts.pdb
+C:\Users\shruti.kadam\source\repos\ECommerce\Accounts\bin\Debug\Delegation.dll
+C:\Users\shruti.kadam\source\repos\ECommerce\Accounts\bin\Debug\Delegation.pdb
+C:\Users\shruti.kadam\source\repos\ECommerce\Accounts\obj\Debug\Accounts.csproj.AssemblyReference.cache
+C:\Users\shruti.kadam\source\repos\ECommerce\Accounts\obj\Debug\Accounts.csproj.CoreCompileInputs.cache
+C:\Users\shruti.kadam\source\repos\ECommerce\Accounts\obj\Debug\Accounts.csproj.Up2Date
+C:\Users\shruti.kadam\source\repos\ECommerce\Accounts\obj\Debug\Accounts.dll
+C:\Users\shruti.kadam\source\repos\ECommerce\Accounts\obj\Debug\Accounts.pdb

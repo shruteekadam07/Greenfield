@@ -1,0 +1,27 @@
+﻿@using Catalog;
+
+<h2>Products for sale </h2>
+<main>
+    <div class="row">
+
+        <ol>
+            @{
+                foreach (Product p in @Model)
+                {
+                    <li>
+
+                        <img src="@p.ImageUrl" width="50" height="50" />
+
+                    </li>
+
+
+
+                }
+
+            }
+        </ol>
+
+    </div>
+</main>
+</main>
+

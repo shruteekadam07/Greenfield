@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+<main>
+    <h2>Customer Details</h2>
+    <div class="row">
+
+        @{
+            foreach (EcommerceWebApp.Models.Customer p in @Model)
+            {
+                <p>@p.Name @p.Address @p.Email </p>
+
+            }
+        }
+
+    </div>
+</main>
+
+

@@ -1,0 +1,6 @@
+C:\Users\shruti.kadam\source\repos\ECommerce\CRM\bin\Debug\CRM.dll
+C:\Users\shruti.kadam\source\repos\ECommerce\CRM\bin\Debug\CRM.pdb
+C:\Users\shruti.kadam\source\repos\ECommerce\CRM\obj\Debug\CRM.csproj.AssemblyReference.cache
+C:\Users\shruti.kadam\source\repos\ECommerce\CRM\obj\Debug\CRM.csproj.CoreCompileInputs.cache
+C:\Users\shruti.kadam\source\repos\ECommerce\CRM\obj\Debug\CRM.dll
+C:\Users\shruti.kadam\source\repos\ECommerce\CRM\obj\Debug\CRM.pdb
