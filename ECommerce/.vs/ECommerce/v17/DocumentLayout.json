@@ -3,60 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{61B91FFC-3FD9-4FE1-B2D5-CD6683902E37}|BankingPortal\\BankingPortal.csproj|c:\\users\\shruti.kadam\\desktop\\greenfield\\ecommerce\\bankingportal\\repositories\\jsondatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61B91FFC-3FD9-4FE1-B2D5-CD6683902E37}|BankingPortal\\BankingPortal.csproj|solutionrelative:bankingportal\\repositories\\jsondatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61B91FFC-3FD9-4FE1-B2D5-CD6683902E37}|BankingPortal\\BankingPortal.csproj|c:\\users\\shruti.kadam\\desktop\\greenfield\\ecommerce\\bankingportal\\repositories\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61B91FFC-3FD9-4FE1-B2D5-CD6683902E37}|BankingPortal\\BankingPortal.csproj|solutionrelative:bankingportal\\repositories\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61B91FFC-3FD9-4FE1-B2D5-CD6683902E37}|BankingPortal\\BankingPortal.csproj|C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\bankingportal\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B91FFC-3FD9-4FE1-B2D5-CD6683902E37}|BankingPortal\\BankingPortal.csproj|solutionrelative:bankingportal\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{61B91FFC-3FD9-4FE1-B2D5-CD6683902E37}|BankingPortal\\BankingPortal.csproj|c:\\users\\shruti.kadam\\desktop\\greenfield\\ecommerce\\bankingportal\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61B91FFC-3FD9-4FE1-B2D5-CD6683902E37}|BankingPortal\\BankingPortal.csproj|solutionrelative:bankingportal\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61B91FFC-3FD9-4FE1-B2D5-CD6683902E37}|BankingPortal\\BankingPortal.csproj|c:\\users\\shruti.kadam\\desktop\\greenfield\\ecommerce\\bankingportal\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61B91FFC-3FD9-4FE1-B2D5-CD6683902E37}|BankingPortal\\BankingPortal.csproj|C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\bankingportal\\repositories\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B91FFC-3FD9-4FE1-B2D5-CD6683902E37}|BankingPortal\\BankingPortal.csproj|solutionrelative:bankingportal\\repositories\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B91FFC-3FD9-4FE1-B2D5-CD6683902E37}|BankingPortal\\BankingPortal.csproj|C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\bankingportal\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61B91FFC-3FD9-4FE1-B2D5-CD6683902E37}|BankingPortal\\BankingPortal.csproj|solutionrelative:bankingportal\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C0AE779-1505-4A41-816F-50354228F31E}|Specification\\Specification.csproj|c:\\users\\shruti.kadam\\desktop\\greenfield\\ecommerce\\specification\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C0AE779-1505-4A41-816F-50354228F31E}|Specification\\Specification.csproj|solutionrelative:specification\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61B91FFC-3FD9-4FE1-B2D5-CD6683902E37}|BankingPortal\\BankingPortal.csproj|c:\\users\\shruti.kadam\\desktop\\greenfield\\ecommerce\\bankingportal\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61B91FFC-3FD9-4FE1-B2D5-CD6683902E37}|BankingPortal\\BankingPortal.csproj|solutionrelative:bankingportal\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61B91FFC-3FD9-4FE1-B2D5-CD6683902E37}|BankingPortal\\BankingPortal.csproj|c:\\users\\shruti.kadam\\desktop\\greenfield\\ecommerce\\bankingportal\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{61B91FFC-3FD9-4FE1-B2D5-CD6683902E37}|BankingPortal\\BankingPortal.csproj|solutionrelative:bankingportal\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61B91FFC-3FD9-4FE1-B2D5-CD6683902E37}|BankingPortal\\BankingPortal.csproj|c:\\users\\shruti.kadam\\desktop\\greenfield\\ecommerce\\bankingportal\\views\\auth\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{61B91FFC-3FD9-4FE1-B2D5-CD6683902E37}|BankingPortal\\BankingPortal.csproj|solutionrelative:bankingportal\\views\\auth\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61B91FFC-3FD9-4FE1-B2D5-CD6683902E37}|BankingPortal\\BankingPortal.csproj|c:\\users\\shruti.kadam\\desktop\\greenfield\\ecommerce\\bankingportal\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{61B91FFC-3FD9-4FE1-B2D5-CD6683902E37}|BankingPortal\\BankingPortal.csproj|solutionrelative:bankingportal\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61B91FFC-3FD9-4FE1-B2D5-CD6683902E37}|BankingPortal\\BankingPortal.csproj|c:\\users\\shruti.kadam\\desktop\\greenfield\\ecommerce\\bankingportal\\views\\auth\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{61B91FFC-3FD9-4FE1-B2D5-CD6683902E37}|BankingPortal\\BankingPortal.csproj|solutionrelative:bankingportal\\views\\auth\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61B91FFC-3FD9-4FE1-B2D5-CD6683902E37}|BankingPortal\\BankingPortal.csproj|c:\\users\\shruti.kadam\\desktop\\greenfield\\ecommerce\\bankingportal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{61B91FFC-3FD9-4FE1-B2D5-CD6683902E37}|BankingPortal\\BankingPortal.csproj|solutionrelative:bankingportal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{61B91FFC-3FD9-4FE1-B2D5-CD6683902E37}|BankingPortal\\BankingPortal.csproj|c:\\users\\shruti.kadam\\desktop\\greenfield\\ecommerce\\bankingportal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61B91FFC-3FD9-4FE1-B2D5-CD6683902E37}|BankingPortal\\BankingPortal.csproj|solutionrelative:bankingportal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61B91FFC-3FD9-4FE1-B2D5-CD6683902E37}|BankingPortal\\BankingPortal.csproj|c:\\users\\shruti.kadam\\desktop\\greenfield\\ecommerce\\bankingportal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{61B91FFC-3FD9-4FE1-B2D5-CD6683902E37}|BankingPortal\\BankingPortal.csproj|solutionrelative:bankingportal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{61B91FFC-3FD9-4FE1-B2D5-CD6683902E37}|BankingPortal\\BankingPortal.csproj|c:\\users\\shruti.kadam\\desktop\\greenfield\\ecommerce\\bankingportal\\repositories\\jsondatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B91FFC-3FD9-4FE1-B2D5-CD6683902E37}|BankingPortal\\BankingPortal.csproj|solutionrelative:bankingportal\\repositories\\jsondatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61B91FFC-3FD9-4FE1-B2D5-CD6683902E37}|BankingPortal\\BankingPortal.csproj|c:\\users\\shruti.kadam\\desktop\\greenfield\\ecommerce\\bankingportal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61B91FFC-3FD9-4FE1-B2D5-CD6683902E37}|BankingPortal\\BankingPortal.csproj|solutionrelative:bankingportal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61B91FFC-3FD9-4FE1-B2D5-CD6683902E37}|BankingPortal\\BankingPortal.csproj|C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\bankingportal\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61B91FFC-3FD9-4FE1-B2D5-CD6683902E37}|BankingPortal\\BankingPortal.csproj|solutionrelative:bankingportal\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B91FFC-3FD9-4FE1-B2D5-CD6683902E37}|BankingPortal\\BankingPortal.csproj|c:\\users\\shruti.kadam\\desktop\\greenfield\\ecommerce\\bankingportal\\models\\credential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B91FFC-3FD9-4FE1-B2D5-CD6683902E37}|BankingPortal\\BankingPortal.csproj|solutionrelative:bankingportal\\models\\credential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,24 +42,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\BankingPortal\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BankingPortal\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\BankingPortal\\Models\\User.cs",
+              "RelativeToolTip": "BankingPortal\\Models\\User.cs",
+              "ViewState": "AQIAAAsAAAAQzczMzMw7wBUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:54:09.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "JsonDataRepository.cs",
               "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\BankingPortal\\Repositories\\JsonDataRepository.cs",
               "RelativeDocumentMoniker": "BankingPortal\\Repositories\\JsonDataRepository.cs",
               "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\BankingPortal\\Repositories\\JsonDataRepository.cs",
               "RelativeToolTip": "BankingPortal\\Repositories\\JsonDataRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "ViewState": "AQIAAAgAAADgMzMzM7MiwAQAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T11:25:24.926Z",
+              "WhenOpened": "2024-11-13T12:34:31.192Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\BankingPortal\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "BankingPortal\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\BankingPortal\\Services\\AuthService.cs",
+              "RelativeToolTip": "BankingPortal\\Services\\AuthService.cs",
+              "ViewState": "AQIAAAUAAAAALDMzMzMLwAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:34:19.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "credential.cs",
+              "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\BankingPortal\\Models\\credential.cs",
+              "RelativeDocumentMoniker": "BankingPortal\\Models\\credential.cs",
+              "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\BankingPortal\\Models\\credential.cs",
+              "RelativeToolTip": "BankingPortal\\Models\\credential.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:54:12.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "IDataRepository.cs",
               "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\BankingPortal\\Repositories\\IDataRepository.cs",
               "RelativeDocumentMoniker": "BankingPortal\\Repositories\\IDataRepository.cs",
@@ -96,106 +111,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\Specification\\IAuthService.cs",
-              "RelativeDocumentMoniker": "Specification\\IAuthService.cs",
-              "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\Specification\\IAuthService.cs",
-              "RelativeToolTip": "Specification\\IAuthService.cs",
-              "ViewState": "AQIAAAUAAAAQNDMzM3MvwA8AAABTAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T11:20:59.061Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\BankingPortal\\Services\\AuthService.cs",
-              "RelativeDocumentMoniker": "BankingPortal\\Services\\AuthService.cs",
-              "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\BankingPortal\\Services\\AuthService.cs",
-              "RelativeToolTip": "BankingPortal\\Services\\AuthService.cs",
-              "ViewState": "AQIAAAoAAABwZmZmZiYywBMAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T11:20:04.011Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\BankingPortal\\Services\\IAuthService.cs",
               "RelativeDocumentMoniker": "BankingPortal\\Services\\IAuthService.cs",
               "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\BankingPortal\\Services\\IAuthService.cs",
               "RelativeToolTip": "BankingPortal\\Services\\IAuthService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T11:19:45.978Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Welcome.cshtml",
-              "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\BankingPortal\\Views\\Auth\\Welcome.cshtml",
-              "RelativeDocumentMoniker": "BankingPortal\\Views\\Auth\\Welcome.cshtml",
-              "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\BankingPortal\\Views\\Auth\\Welcome.cshtml",
-              "RelativeToolTip": "BankingPortal\\Views\\Auth\\Welcome.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-13T11:16:33.369Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ResetPassword.cshtml",
-              "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\BankingPortal\\Views\\Auth\\ResetPassword.cshtml",
-              "RelativeDocumentMoniker": "BankingPortal\\Views\\Auth\\ResetPassword.cshtml",
-              "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\BankingPortal\\Views\\Auth\\ResetPassword.cshtml",
-              "RelativeToolTip": "BankingPortal\\Views\\Auth\\ResetPassword.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-13T10:14:38.1Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\BankingPortal\\Models\\User.cs",
-              "RelativeDocumentMoniker": "BankingPortal\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\BankingPortal\\Models\\User.cs",
-              "RelativeToolTip": "BankingPortal\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T10:07:30.171Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\BankingPortal\\Views\\Auth\\Register.cshtml",
-              "RelativeDocumentMoniker": "BankingPortal\\Views\\Auth\\Register.cshtml",
-              "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\BankingPortal\\Views\\Auth\\Register.cshtml",
-              "RelativeToolTip": "BankingPortal\\Views\\Auth\\Register.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-13T09:57:27.904Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\BankingPortal\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "BankingPortal\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\BankingPortal\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "BankingPortal\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-13T09:40:24.819Z",
               "EditorCaption": ""
             },
             {
@@ -206,48 +130,22 @@
               "RelativeDocumentMoniker": "BankingPortal\\Views\\Auth\\Login.cshtml",
               "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\BankingPortal\\Views\\Auth\\Login.cshtml",
               "RelativeToolTip": "BankingPortal\\Views\\Auth\\Login.cshtml",
-              "ViewState": "AQIAAAoAAAAAAQAAAMAtwBoAAABEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-13T09:33:09.133Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\BankingPortal\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "BankingPortal\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\BankingPortal\\Controllers\\AuthController.cs",
               "RelativeToolTip": "BankingPortal\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAAA4AAAAA4MzMzMzkvxgAAAAqAAAA",
+              "ViewState": "AQIAACEAAAAA0MzMzMzsvzUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T09:31:28.315Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\BankingPortal\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "BankingPortal\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\BankingPortal\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "BankingPortal\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-13T09:21:27.146Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\BankingPortal\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "BankingPortal\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\BankingPortal\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "BankingPortal\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAMAkwB8AAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T09:20:03.895Z",
               "EditorCaption": ""
             }
           ]

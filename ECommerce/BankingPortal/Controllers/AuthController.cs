@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using BankingPortal.Services;
 
 namespace BankingPortal.Controllers
 {
@@ -10,8 +11,9 @@ namespace BankingPortal.Controllers
     {
         // GET: Auth
         public ActionResult Login()
-
         {
+            AuthService authService = new AuthService();
+            authService.Seeding();
             return View();
         }
 
@@ -20,19 +22,35 @@ namespace BankingPortal.Controllers
         public ActionResult Login(string email, string password)
         {
 
-            if (email == "shruti@gmail.com" && password == "123")
+            AuthService authService = new AuthService();
+            if (authService.Login(email, password))
             {
-                return RedirectToAction("Welcome");
+                return RedirectToAction("welcome");
+            }
+            else
+            {
+
+                return View();
+            }
+
+        }
+        public ActionResult Register() 
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public ActionResult Register(string firstname, string lastname, string email, long contactno, string address)
+        {
+            IAuthService authService = new AuthService();
+            if (authService.Register(firstname, lastname, email, contactno, address))
+            {
+                return RedirectToAction("welcome");
             }
             else
             {
                 return View();
             }
-         
-        }
-        public ActionResult Register() 
-        {
-            return View();
         }
 
         public ActionResult ResetPassword() 
