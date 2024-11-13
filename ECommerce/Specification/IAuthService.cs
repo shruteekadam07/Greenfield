@@ -16,5 +16,7 @@ namespace Specification
         bool ResetPassword(string username, string oldPassword,string newPassword);
         List<User> GetAllUsers();
         List<credential> GetAllCredentials();
+        bool Delete(int id);
+
     }
 }

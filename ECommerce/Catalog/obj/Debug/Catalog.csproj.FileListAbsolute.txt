@@ -11,3 +11,16 @@ C:\Users\shruti.kadam\source\repos\ECommerce\Catalog\bin\Debug\BinaryDataReposit
 C:\Users\shruti.kadam\source\repos\ECommerce\Catalog\bin\Debug\Specification.dll
 C:\Users\shruti.kadam\source\repos\ECommerce\Catalog\bin\Debug\BinaryDataRepositoryLib.pdb
 C:\Users\shruti.kadam\source\repos\ECommerce\Catalog\bin\Debug\Specification.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Catalog\bin\Debug\Catalog.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Catalog\bin\Debug\Catalog.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Catalog\bin\Debug\BinaryDataRepositoryLib.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Catalog\bin\Debug\POCOLib.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Catalog\bin\Debug\Specification.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Catalog\bin\Debug\BinaryDataRepositoryLib.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Catalog\bin\Debug\POCOLib.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Catalog\bin\Debug\Specification.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Catalog\obj\Debug\Catalog.csproj.AssemblyReference.cache
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Catalog\obj\Debug\Catalog.csproj.CoreCompileInputs.cache
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Catalog\obj\Debug\Catalog.csproj.Up2Date
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Catalog\obj\Debug\Catalog.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Catalog\obj\Debug\Catalog.pdb

@@ -11,3 +11,16 @@ C:\Users\shruti.kadam\source\repos\ECommerce\BinaryDataRepositoryLib\bin\Debug\P
 C:\Users\shruti.kadam\source\repos\ECommerce\BinaryDataRepositoryLib\obj\Debug\BinaryDa.66CF657C.Up2Date
 C:\Users\shruti.kadam\source\repos\ECommerce\BinaryDataRepositoryLib\obj\Debug\BinaryDataRepositoryLib.dll
 C:\Users\shruti.kadam\source\repos\ECommerce\BinaryDataRepositoryLib\obj\Debug\BinaryDataRepositoryLib.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\BinaryDataRepositoryLib\bin\Debug\BinaryDataRepositoryLib.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\BinaryDataRepositoryLib\bin\Debug\BinaryDataRepositoryLib.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\BinaryDataRepositoryLib\bin\Debug\Membership.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\BinaryDataRepositoryLib\bin\Debug\Specification.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\BinaryDataRepositoryLib\bin\Debug\POCOLib.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\BinaryDataRepositoryLib\bin\Debug\Membership.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\BinaryDataRepositoryLib\bin\Debug\Specification.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\BinaryDataRepositoryLib\bin\Debug\POCOLib.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\BinaryDataRepositoryLib\obj\Debug\BinaryDataRepositoryLib.csproj.AssemblyReference.cache
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\BinaryDataRepositoryLib\obj\Debug\BinaryDataRepositoryLib.csproj.CoreCompileInputs.cache
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\BinaryDataRepositoryLib\obj\Debug\BinaryDa.66CF657C.Up2Date
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\BinaryDataRepositoryLib\obj\Debug\BinaryDataRepositoryLib.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\BinaryDataRepositoryLib\obj\Debug\BinaryDataRepositoryLib.pdb

@@ -7,3 +7,12 @@ C:\Users\shruti.kadam\source\repos\ECommerce\Specification\bin\Debug\POCOLib.pdb
 C:\Users\shruti.kadam\source\repos\ECommerce\Specification\obj\Debug\Specific.3019C553.Up2Date
 C:\Users\shruti.kadam\source\repos\ECommerce\Specification\obj\Debug\Specification.dll
 C:\Users\shruti.kadam\source\repos\ECommerce\Specification\obj\Debug\Specification.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Specification\bin\Debug\Specification.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Specification\bin\Debug\Specification.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Specification\bin\Debug\POCOLib.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Specification\bin\Debug\POCOLib.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Specification\obj\Debug\Specification.csproj.AssemblyReference.cache
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Specification\obj\Debug\Specification.csproj.CoreCompileInputs.cache
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Specification\obj\Debug\Specific.3019C553.Up2Date
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Specification\obj\Debug\Specification.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Specification\obj\Debug\Specification.pdb

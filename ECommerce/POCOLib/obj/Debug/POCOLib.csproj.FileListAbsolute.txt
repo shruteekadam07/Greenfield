@@ -4,3 +4,9 @@ C:\Users\shruti.kadam\source\repos\ECommerce\POCOLib\bin\Debug\POCOLib.dll
 C:\Users\shruti.kadam\source\repos\ECommerce\POCOLib\bin\Debug\POCOLib.pdb
 C:\Users\shruti.kadam\source\repos\ECommerce\POCOLib\obj\Debug\POCOLib.dll
 C:\Users\shruti.kadam\source\repos\ECommerce\POCOLib\obj\Debug\POCOLib.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\POCOLib\bin\Debug\POCOLib.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\POCOLib\bin\Debug\POCOLib.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\POCOLib\obj\Debug\POCOLib.csproj.AssemblyReference.cache
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\POCOLib\obj\Debug\POCOLib.csproj.CoreCompileInputs.cache
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\POCOLib\obj\Debug\POCOLib.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\POCOLib\obj\Debug\POCOLib.pdb
