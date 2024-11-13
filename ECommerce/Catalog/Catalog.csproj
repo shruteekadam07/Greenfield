@@ -48,9 +48,9 @@
       <Project>{1180C3FE-9BA7-4C7D-B9DF-C9098F97EE28}</Project>
       <Name>BinaryDataRepositoryLib</Name>
     </ProjectReference>
-    <ProjectReference Include="..\POCOLib\POCOLib.csproj">
+    <ProjectReference Include="..\POCOLib\ECommerceEntities.csproj">
       <Project>{20B64227-6EF9-4F67-864B-5E69B5F2CE2B}</Project>
-      <Name>POCOLib</Name>
+      <Name>ECommerceEntities</Name>
     </ProjectReference>
     <ProjectReference Include="..\Specification\Specification.csproj">
       <Project>{6C0AE779-1505-4A41-816F-50354228F31E}</Project>

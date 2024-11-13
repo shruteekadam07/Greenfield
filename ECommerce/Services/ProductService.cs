@@ -7,7 +7,7 @@ using Specification;
 using System.Security;
 using System.Net.Http;
 using BinaryDataRepositoryLib;
-using POCOLib;
+using ECommerceEntities;
 using JsonDataRepositoryLib;
 
 namespace Services

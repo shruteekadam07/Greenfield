@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using BinaryDataRepositoryLib;
 using JsonDataRepositoryLib;
-using POCOLib;
+using ECommerceEntities;
 using Specification;
 
 namespace Services

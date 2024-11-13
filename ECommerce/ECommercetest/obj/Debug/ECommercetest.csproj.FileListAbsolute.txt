@@ -80,9 +80,8 @@ C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommercetest\bin\Debug\Micro
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommercetest\bin\Debug\System.Buffers.xml
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommercetest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommercetest\obj\Debug\ECommercetest.csproj.AssemblyReference.cache
-C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommercetest\obj\Debug\ECommercetest.csproj.SuggestedBindingRedirects.cache
-C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommercetest\obj\Debug\ECommercetest.exe.config
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommercetest\obj\Debug\ECommercetest.csproj.CoreCompileInputs.cache
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommercetest\obj\Debug\ECommerc.F3955B85.Up2Date
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommercetest\obj\Debug\ECommercetest.exe
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommercetest\obj\Debug\ECommercetest.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommercetest\bin\Debug\Services.dll.config

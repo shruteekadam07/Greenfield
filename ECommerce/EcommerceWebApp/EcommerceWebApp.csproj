@@ -239,9 +239,9 @@
       <Project>{fb8f6d6a-cc5b-4917-af67-f4e34224efd1}</Project>
       <Name>Catalog</Name>
     </ProjectReference>
-    <ProjectReference Include="..\POCOLib\POCOLib.csproj">
+    <ProjectReference Include="..\POCOLib\ECommerceEntities.csproj">
       <Project>{20B64227-6EF9-4F67-864B-5E69B5F2CE2B}</Project>
-      <Name>POCOLib</Name>
+      <Name>ECommerceEntities</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
