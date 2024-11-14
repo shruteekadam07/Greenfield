@@ -29,5 +29,12 @@ namespace HDFCBankApp.Controllers
             ViewData["processmessage"] = theMessage;
             return View();
         }
+
+        public ActionResult Details()
+        {
+            string userEmail = this.HttpContext.Session["loggedinUser"] as string;
+            ViewBag.UserEmail = userEmail;
+            return View();
+        }
     }
 }
