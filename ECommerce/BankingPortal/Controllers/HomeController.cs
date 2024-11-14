@@ -12,6 +12,8 @@ namespace BankingPortal.Controllers
         //action methods
         public ActionResult Index()
         {
+
+
             return View();
         }
 

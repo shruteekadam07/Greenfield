@@ -5,3 +5,10 @@ C:\Users\shruti.kadam\source\repos\ECommerce\CollectionDemoApp\obj\Debug\Collect
 C:\Users\shruti.kadam\source\repos\ECommerce\CollectionDemoApp\obj\Debug\CollectionDemoApp.csproj.CoreCompileInputs.cache
 C:\Users\shruti.kadam\source\repos\ECommerce\CollectionDemoApp\obj\Debug\CollectionDemoApp.exe
 C:\Users\shruti.kadam\source\repos\ECommerce\CollectionDemoApp\obj\Debug\CollectionDemoApp.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\CollectionDemoApp\bin\Debug\CollectionDemoApp.exe.config
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\CollectionDemoApp\bin\Debug\CollectionDemoApp.exe
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\CollectionDemoApp\bin\Debug\CollectionDemoApp.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\CollectionDemoApp\obj\Debug\CollectionDemoApp.csproj.AssemblyReference.cache
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\CollectionDemoApp\obj\Debug\CollectionDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\CollectionDemoApp\obj\Debug\CollectionDemoApp.exe
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\CollectionDemoApp\obj\Debug\CollectionDemoApp.pdb

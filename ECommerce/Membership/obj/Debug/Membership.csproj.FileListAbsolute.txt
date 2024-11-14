@@ -4,3 +4,9 @@ C:\Users\shruti.kadam\source\repos\ECommerce\Membership\obj\Debug\Membership.csp
 C:\Users\shruti.kadam\source\repos\ECommerce\Membership\obj\Debug\Membership.csproj.CoreCompileInputs.cache
 C:\Users\shruti.kadam\source\repos\ECommerce\Membership\obj\Debug\Membership.dll
 C:\Users\shruti.kadam\source\repos\ECommerce\Membership\obj\Debug\Membership.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Membership\bin\Debug\Membership.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Membership\bin\Debug\Membership.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Membership\obj\Debug\Membership.csproj.AssemblyReference.cache
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Membership\obj\Debug\Membership.csproj.CoreCompileInputs.cache
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Membership\obj\Debug\Membership.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Membership\obj\Debug\Membership.pdb

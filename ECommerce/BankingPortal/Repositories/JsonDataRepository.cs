@@ -7,7 +7,7 @@ using System.IO;
 
 namespace BankingPortal.Repositories
 {
-    public class JsonRepository<T> : IDataRepository<T>
+    public class JsonDataRepository<T> : IDataRepository<T>
     {
         public List<T> Deserialize(string filename)
         {
@@ -28,6 +28,7 @@ namespace BankingPortal.Repositories
             FileStream createStream = File.Create(filename);
             JsonSerializer.Serialize(createStream, items);
             createStream.Close();
+            status= true;
             return status;
 
         }

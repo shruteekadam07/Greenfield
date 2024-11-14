@@ -25,7 +25,7 @@ namespace BankingPortal.Controllers
             AuthService authService = new AuthService();
             if (authService.Login(email, password))
             {
-                return RedirectToAction("welcome");
+                return RedirectToAction("Welcome");
             }
             else
             {
@@ -40,12 +40,12 @@ namespace BankingPortal.Controllers
         }
 
         [HttpPost]
-        public ActionResult Register(string firstname, string lastname, string email, long contactno, string address)
+        public ActionResult Register(string firstname, string lastname, string email, long contactno, string location)
         {
             IAuthService authService = new AuthService();
-            if (authService.Register(firstname, lastname, email, contactno, address))
+            if (authService.Register(firstname, lastname, email, contactno, location))
             {
-                return RedirectToAction("welcome");
+                return RedirectToAction("Welcome");
             }
             else
             {

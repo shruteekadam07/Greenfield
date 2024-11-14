@@ -42,6 +42,7 @@ C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\SerializationTestApp\bin\Debu
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\SerializationTestApp\bin\Debug\SerializationTestApp.pdb
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\SerializationTestApp\bin\Debug\POCOLib.dll
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\SerializationTestApp\bin\Debug\Services.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\SerializationTestApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\SerializationTestApp\bin\Debug\Specification.dll
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\SerializationTestApp\bin\Debug\JsonDataRepositoryLib.dll
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\SerializationTestApp\bin\Debug\System.Text.Json.dll
@@ -52,9 +53,10 @@ C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\SerializationTestApp\bin\Debu
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\SerializationTestApp\bin\Debug\System.Threading.Tasks.Extensions.dll
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\SerializationTestApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\SerializationTestApp\bin\Debug\System.Buffers.dll
-C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\SerializationTestApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\SerializationTestApp\bin\Debug\POCOLib.pdb
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\SerializationTestApp\bin\Debug\Services.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\SerializationTestApp\bin\Debug\Services.dll.config
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\SerializationTestApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\SerializationTestApp\bin\Debug\Specification.pdb
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\SerializationTestApp\bin\Debug\JsonDataRepositoryLib.pdb
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\SerializationTestApp\bin\Debug\JsonDataRepositoryLib.dll.config
@@ -66,10 +68,8 @@ C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\SerializationTestApp\bin\Debu
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\SerializationTestApp\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\SerializationTestApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\SerializationTestApp\bin\Debug\System.Buffers.xml
-C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\SerializationTestApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\SerializationTestApp\obj\Debug\SerializationTestApp.csproj.AssemblyReference.cache
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\SerializationTestApp\obj\Debug\SerializationTestApp.csproj.CoreCompileInputs.cache
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\SerializationTestApp\obj\Debug\Serializ.7BDD11EF.Up2Date
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\SerializationTestApp\obj\Debug\SerializationTestApp.exe
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\SerializationTestApp\obj\Debug\SerializationTestApp.pdb
-C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\SerializationTestApp\bin\Debug\Services.dll.config

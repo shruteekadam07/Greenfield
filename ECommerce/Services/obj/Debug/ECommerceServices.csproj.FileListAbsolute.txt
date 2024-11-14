@@ -1,7 +1,3 @@
-C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\obj\Debug\ECommerceServices.csproj.AssemblyReference.cache
-C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\obj\Debug\ECommerceServices.csproj.CoreCompileInputs.cache
-C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\obj\Debug\Services.dll
-C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\obj\Debug\Services.pdb
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\bin\Debug\Services.dll.config
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\bin\Debug\Services.dll
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\bin\Debug\Services.pdb
@@ -32,4 +28,8 @@ C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\bin\Debug\System.Thr
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\bin\Debug\System.Buffers.xml
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\obj\Debug\ECommerceServices.csproj.AssemblyReference.cache
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\obj\Debug\ECommerceServices.csproj.CoreCompileInputs.cache
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\obj\Debug\ECommerc.0143A341.Up2Date
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\obj\Debug\Services.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\obj\Debug\Services.pdb

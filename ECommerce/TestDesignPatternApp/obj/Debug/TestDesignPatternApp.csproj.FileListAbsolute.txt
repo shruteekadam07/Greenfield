@@ -5,3 +5,10 @@ C:\Users\shruti.kadam\source\repos\ECommerce\TestDesignPatternApp\obj\Debug\Test
 C:\Users\shruti.kadam\source\repos\ECommerce\TestDesignPatternApp\obj\Debug\TestDesignPatternApp.csproj.CoreCompileInputs.cache
 C:\Users\shruti.kadam\source\repos\ECommerce\TestDesignPatternApp\obj\Debug\TestDesignPatternApp.exe
 C:\Users\shruti.kadam\source\repos\ECommerce\TestDesignPatternApp\obj\Debug\TestDesignPatternApp.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\TestDesignPatternApp\bin\Debug\TestDesignPatternApp.exe.config
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\TestDesignPatternApp\bin\Debug\TestDesignPatternApp.exe
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\TestDesignPatternApp\bin\Debug\TestDesignPatternApp.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\TestDesignPatternApp\obj\Debug\TestDesignPatternApp.csproj.AssemblyReference.cache
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\TestDesignPatternApp\obj\Debug\TestDesignPatternApp.csproj.CoreCompileInputs.cache
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\TestDesignPatternApp\obj\Debug\TestDesignPatternApp.exe
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\TestDesignPatternApp\obj\Debug\TestDesignPatternApp.pdb
