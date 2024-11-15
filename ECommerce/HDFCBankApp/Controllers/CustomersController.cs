@@ -14,7 +14,6 @@ namespace HDFCBankApp.Controllers
         public CustomersController() {
             list.Add(new Customer { Id = 1, Name = "Microsoft", Email = "kahaga@gmail.com", Location = "mumbai", ContactNumber = "7897554" });
 
-
         }
 
         // GET: Customers

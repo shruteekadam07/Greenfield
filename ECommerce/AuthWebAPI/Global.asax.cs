@@ -6,6 +6,8 @@ using System.Web.Http;
 using System.Web.Mvc;
 using System.Web.Optimization;
 using System.Web.Routing;
+using Specification;
+using Services;
 
 namespace AuthWebAPI
 {
@@ -18,6 +20,10 @@ namespace AuthWebAPI
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
+            //ProductService productService =new ProductService();
+            //productService.Seeding();
+
+
         }
     }
 }

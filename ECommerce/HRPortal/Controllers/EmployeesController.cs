@@ -68,8 +68,5 @@ namespace HRPortal.Controllers
             return View();
         }
 
-
-
-
     }
 }

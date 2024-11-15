@@ -33,7 +33,7 @@ namespace Services
             /*IDataRepository<Product> repo = new BinaryRepository<Product>();
             status = repo.Serialize(@"C:/Users/shruti.kadam/source/repos/ECommerce/SerializationTestApp/bin/Debug/products.dat", products);*/
             IDataRepository<Product> repo = new JsonRepository<Product>();
-            status = repo.Serialize("products.json", products);
+            status = repo.Serialize(@"d:/products.json", products);
 
             return status;
         }
@@ -43,9 +43,9 @@ namespace Services
             if (theProduct != null)
             {
                 List<Product> allProducts = GetAll();
-                allProducts.Remove(theProduct);
+                allProducts=allProducts.FindAll((p) =>p.ProductId != id);
                 IDataRepository<Product> repo = new JsonRepository<Product>();
-                repo.Serialize("products.json", allProducts);
+                repo.Serialize(@"D:/products.json", allProducts);
             }
             return false;
         }
@@ -68,7 +68,7 @@ namespace Services
         {
             List<Product> products = new List<Product>();
             IDataRepository<Product> repository = new JsonRepository<Product>();
-            products = repository.Deserialize("products.json");
+            products = repository.Deserialize(@"d:/products.json");
             return products;
         }
 
@@ -77,7 +77,7 @@ namespace Services
             List<Product> allProducts = GetAll();
             allProducts.Add(product);
             IDataRepository<Product> repo = new JsonRepository<Product>();
-            repo.Serialize("products.json", allProducts);
+            repo.Serialize(@"d:/products.json", allProducts);
             return false;
         }
 
@@ -90,7 +90,7 @@ namespace Services
                 allProducts.Remove(theProduct);
                 allProducts.Add(productTobeUpdated);
                 IDataRepository<Product> repo = new JsonRepository<Product>();
-                repo.Serialize("products.json", allProducts);
+                repo.Serialize(@"D:/products.json", allProducts);
             }
             return false;
         }
