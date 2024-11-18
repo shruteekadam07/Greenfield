@@ -1,4 +1,4 @@
-﻿@using Catalog;
+﻿@using ECommerceEntities;
 
 <h2>Products for sale </h2>
 <main>
@@ -6,14 +6,16 @@
 
         <ol>
             @{
+                List<Product> products = (List<Product>)ViewData["products"];
+
                 foreach (Product p in @Model)
                 {
                     <li>
+                        <p> @p.Title</p>
 
-                        <img src="@p.ImageUrl" width="50" height="50" />
 
-                    </li>
-
+                        <img src=" @p.ImageUrl" width="50" height="50" />
+                        <a href="/product/details/@p.ProductId">Details</a></li>
 
 
                 }

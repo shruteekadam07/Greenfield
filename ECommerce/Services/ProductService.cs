@@ -27,7 +27,7 @@ namespace Services
             List<Product> products = new List<Product>();
             products.Add(new Product { ProductId = 1, Title = "gerbera", Description = "Wedding Flower", UnitPrice = 12, Quantity = 2000, ImageUrl = "/Images/gerbera.jpg" });
             products.Add(new Product { ProductId = 2, Title = "rose", Description = "Valentine Flower", UnitPrice = 23, Quantity = 9000, ImageUrl = "/images/rose.jpg" });
-            //products.Add(new Product { Id = 3, Name = "lily", Description = "Delicate Flower", UnitPrice = 2, Quantity = 7000, Image = "/images/lily.jpg" });
+            products.Add(new Product { ProductId = 3, Title = "lily", Description = "Delicate Flower", UnitPrice = 2, Quantity = 7000, ImageUrl = "/images/lily.jpg" });
             //products.Add(new Product { Id = 4, Name = "jasmine", Description = "Fregrance Flower", UnitPrice = 12, Quantity = 55000, Image = "/images/jasmines.jpg" });
             //products.Add(new Product { Id = 5, Name = "lotus", Description = "Worship Flower", UnitPrice = 45, Quantity = 15000, Image = "/images/lotus.jpg" });
             /*IDataRepository<Product> repo = new BinaryRepository<Product>();

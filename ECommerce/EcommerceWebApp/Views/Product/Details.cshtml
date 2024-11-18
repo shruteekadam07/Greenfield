@@ -1,7 +1,20 @@
-﻿
+﻿@using ECommerceEntities;
+
 @{
     ViewBag.Title = "Details";
 }
 
 <h2>Details</h2>
+
+
+@{ 
+    Product theProduct = (Product)ViewData["product"];
+    <p> Title: @theProduct.Title</p>
+    <p>Unit Price: @theProduct.UnitPrice</p>
+
+
+    <a href="/shoppingcart/addtocart">Add to Cart</a>
+
+}
+
 
