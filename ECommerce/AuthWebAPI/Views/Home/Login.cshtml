@@ -1,0 +1,38 @@
+﻿
+@{
+    ViewBag.Title = "Login";
+}
+
+<h2>Login</h2>
+
+<table>
+    <tr>
+        <td>Email:</td>
+        <td><input type="text" id="txtEmail"/></td>
+    </tr>
+    <tr>
+        <td>Password:</td>
+        <td><input type="password" id="txtPassword"/></td>
+    </tr>
+    <tr>
+        <td>P</td>
+        <td><button onclick="onSignIn()">Login</button></td>
+    </tr>
+</table>
+
+<script>
+    var onSignIn = () => {
+        //Dom programming 
+        let txtUserEmail = document.getElementById("txtEmail");
+        let email = txtUserEmail.value;
+        let txtUserPassword = document.getElementById("txtPassword");
+        let password = txtUserPassword.value;
+
+        if (email === "shruti@gmail.com" && password === "123") {
+            alert("login successful");
+        }
+        else {
+            alert("invalid user");
+        }
+    }
+</script>

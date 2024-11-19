@@ -7,8 +7,8 @@
     <ProjectGuid>{20B64227-6EF9-4F67-864B-5E69B5F2CE2B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>POCOLib</RootNamespace>
-    <AssemblyName>POCOLib</AssemblyName>
+    <RootNamespace>EcommerceEntities</RootNamespace>
+    <AssemblyName>EcommerceEntities</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -43,7 +43,10 @@
   <ItemGroup>
     <Compile Include="Cart.cs" />
     <Compile Include="credential.cs" />
+    <Compile Include="Customer.cs" />
+    <Compile Include="CustomerProfile.cs" />
     <Compile Include="Item.cs" />
+    <Compile Include="Order.cs" />
     <Compile Include="Product.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="User.cs" />

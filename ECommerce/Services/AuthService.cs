@@ -9,9 +9,9 @@ using JsonDataRepositoryLib;
 using ECommerceEntities;
 using Specification;
 
-namespace Services
+namespace EcommerceServices
 {
-    public class AuthService : IAuthService
+    public partial class  AuthService : IAuthService
     {
 
         /* public static string logfile = "logfile.dat";

@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+using ECommerceEntities;
+
 namespace CRM
 {
     public class CustomerService : ICustomerService  // inheritance used----> interfaces are always used for implementation

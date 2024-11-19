@@ -63,7 +63,7 @@
       <Name>Orderprocessing</Name>
     </ProjectReference>
     <ProjectReference Include="..\POCOLib\ECommerceEntities.csproj">
-      <Project>{20B64227-6EF9-4F67-864B-5E69B5F2CE2B}</Project>
+      <Project>{20b64227-6ef9-4f67-864b-5e69b5f2ce2b}</Project>
       <Name>ECommerceEntities</Name>
     </ProjectReference>
     <ProjectReference Include="..\Services\ECommerceServices.csproj">

@@ -7,7 +7,8 @@ using System.Threading.Tasks;
 using ECommerceEntities;
 
 
-namespace Services
+namespace EcommerceServices
+
 {
     public class CartService : ICartService
     {

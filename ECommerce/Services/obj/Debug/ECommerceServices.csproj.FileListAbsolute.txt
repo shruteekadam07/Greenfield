@@ -1,9 +1,5 @@
-C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\bin\Debug\Services.dll.config
-C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\bin\Debug\Services.dll
-C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\bin\Debug\Services.pdb
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\bin\Debug\BinaryDataRepositoryLib.dll
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\bin\Debug\JsonDataRepositoryLib.dll
-C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\bin\Debug\POCOLib.dll
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\bin\Debug\Specification.dll
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\bin\Debug\System.Text.Json.dll
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\bin\Debug\System.Memory.dll
@@ -17,7 +13,6 @@ C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\bin\Debug\System.Run
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\bin\Debug\BinaryDataRepositoryLib.pdb
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\bin\Debug\JsonDataRepositoryLib.pdb
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\bin\Debug\JsonDataRepositoryLib.dll.config
-C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\bin\Debug\POCOLib.pdb
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\bin\Debug\Specification.pdb
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\bin\Debug\System.Text.Json.xml
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\bin\Debug\System.Memory.xml
@@ -31,5 +26,10 @@ C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\bin\Debug\System.Run
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\obj\Debug\ECommerceServices.csproj.AssemblyReference.cache
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\obj\Debug\ECommerceServices.csproj.CoreCompileInputs.cache
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\obj\Debug\ECommerc.0143A341.Up2Date
-C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\obj\Debug\Services.dll
-C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\obj\Debug\Services.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\bin\Debug\EcommerceEntities.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\bin\Debug\EcommerceEntities.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\bin\Debug\ECommerceServices.dll.config
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\bin\Debug\ECommerceServices.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\bin\Debug\ECommerceServices.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\obj\Debug\ECommerceServices.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\obj\Debug\ECommerceServices.pdb

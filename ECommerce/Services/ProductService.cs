@@ -10,7 +10,7 @@ using BinaryDataRepositoryLib;
 using ECommerceEntities;
 using JsonDataRepositoryLib;
 
-namespace Services
+namespace EcommerceServices
 {
 
     //Service class is special class 

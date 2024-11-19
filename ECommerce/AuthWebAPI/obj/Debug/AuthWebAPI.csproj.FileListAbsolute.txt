@@ -119,8 +119,6 @@ C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\AuthWebAPI\bin\Antlr3.Runtime
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\AuthWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\AuthWebAPI\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\AuthWebAPI\bin\Newtonsoft.Json.dll
-C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\AuthWebAPI\bin\POCOLib.dll
-C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\AuthWebAPI\bin\Services.dll
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\AuthWebAPI\bin\Specification.dll
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\AuthWebAPI\bin\System.Net.Http.Formatting.dll
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\AuthWebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
@@ -143,9 +141,6 @@ C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\AuthWebAPI\bin\System.Numeric
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\AuthWebAPI\bin\System.Threading.Tasks.Extensions.dll
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\AuthWebAPI\bin\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\AuthWebAPI\bin\System.Buffers.dll
-C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\AuthWebAPI\bin\POCOLib.pdb
-C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\AuthWebAPI\bin\Services.pdb
-C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\AuthWebAPI\bin\Services.dll.config
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\AuthWebAPI\bin\Specification.pdb
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\AuthWebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\AuthWebAPI\bin\Newtonsoft.Json.xml
@@ -225,3 +220,8 @@ C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\AuthWebAPI\bin\roslyn\vbc.exe
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\AuthWebAPI\bin\roslyn\vbc.rsp
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\AuthWebAPI\bin\roslyn\VBCSCompiler.exe
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\AuthWebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\AuthWebAPI\bin\EcommerceEntities.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\AuthWebAPI\bin\EcommerceEntities.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\AuthWebAPI\bin\ECommerceServices.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\AuthWebAPI\bin\ECommerceServices.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\AuthWebAPI\bin\ECommerceServices.dll.config

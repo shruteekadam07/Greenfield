@@ -10,3 +10,6 @@ C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\CRM\obj\Debug\CRM.csproj.Asse
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\CRM\obj\Debug\CRM.csproj.CoreCompileInputs.cache
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\CRM\obj\Debug\CRM.dll
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\CRM\obj\Debug\CRM.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\CRM\bin\Debug\EcommerceEntities.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\CRM\bin\Debug\EcommerceEntities.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\CRM\obj\Debug\CRM.csproj.Up2Date

@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Catalog;
 using CRM;
+
+
 using Orderprocessing;
-using ECommerceEntities;
-using Specification;
-using Services;
 
 namespace ECommercetest
 {

@@ -49,8 +49,6 @@ C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommercetest\bin\Debug\EComm
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommercetest\bin\Debug\Catalog.dll
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommercetest\bin\Debug\CRM.dll
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommercetest\bin\Debug\Orderprocessing.dll
-C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommercetest\bin\Debug\POCOLib.dll
-C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommercetest\bin\Debug\Services.dll
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommercetest\bin\Debug\Specification.dll
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommercetest\bin\Debug\JsonDataRepositoryLib.dll
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommercetest\bin\Debug\System.Text.Json.dll
@@ -65,9 +63,6 @@ C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommercetest\bin\Debug\Syste
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommercetest\bin\Debug\Catalog.pdb
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommercetest\bin\Debug\CRM.pdb
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommercetest\bin\Debug\Orderprocessing.pdb
-C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommercetest\bin\Debug\POCOLib.pdb
-C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommercetest\bin\Debug\Services.pdb
-C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommercetest\bin\Debug\Services.dll.config
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommercetest\bin\Debug\Specification.pdb
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommercetest\bin\Debug\JsonDataRepositoryLib.pdb
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommercetest\bin\Debug\JsonDataRepositoryLib.dll.config
@@ -85,3 +80,8 @@ C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommercetest\obj\Debug\EComm
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommercetest\obj\Debug\ECommerc.F3955B85.Up2Date
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommercetest\obj\Debug\ECommercetest.exe
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommercetest\obj\Debug\ECommercetest.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommercetest\bin\Debug\EcommerceEntities.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommercetest\bin\Debug\ECommerceServices.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommercetest\bin\Debug\EcommerceEntities.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommercetest\bin\Debug\ECommerceServices.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommercetest\bin\Debug\ECommerceServices.dll.config

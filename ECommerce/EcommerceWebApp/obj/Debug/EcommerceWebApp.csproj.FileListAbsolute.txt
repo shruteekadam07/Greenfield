@@ -89,7 +89,6 @@ C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\EcommerceWebApp\bin\Catalog.d
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\EcommerceWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\EcommerceWebApp\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\EcommerceWebApp\bin\Newtonsoft.Json.dll
-C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\EcommerceWebApp\bin\POCOLib.dll
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\EcommerceWebApp\bin\System.Web.Helpers.dll
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\EcommerceWebApp\bin\System.Web.Mvc.dll
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\EcommerceWebApp\bin\System.Web.Optimization.dll
@@ -99,7 +98,6 @@ C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\EcommerceWebApp\bin\System.We
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\EcommerceWebApp\bin\System.Web.WebPages.Razor.dll
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\EcommerceWebApp\bin\WebGrease.dll
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\EcommerceWebApp\bin\Catalog.pdb
-C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\EcommerceWebApp\bin\POCOLib.pdb
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\EcommerceWebApp\bin\System.Web.Helpers.xml
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\EcommerceWebApp\bin\System.Web.Mvc.xml
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\EcommerceWebApp\bin\System.Web.Optimization.xml
@@ -164,3 +162,7 @@ C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\EcommerceWebApp\bin\roslyn\vb
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\EcommerceWebApp\bin\roslyn\vbc.rsp
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\EcommerceWebApp\bin\roslyn\VBCSCompiler.exe
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\EcommerceWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\EcommerceWebApp\bin\EcommerceEntities.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\EcommerceWebApp\bin\EcommerceEntities.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\EcommerceWebApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\EcommerceWebApp\bin\System.Runtime.CompilerServices.Unsafe.xml
