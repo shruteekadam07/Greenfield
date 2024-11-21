@@ -1,7 +1,14 @@
-﻿
+﻿@using ECommerceEntities;
+
 @{
     ViewBag.Title = "Index";
 }
 
 <h2>Index</h2>
-
+@{
+    List<Item> items = ViewData["cart"] as List<Item>;
+    foreach (Item i in items)
+    {
+        <p> @i.ProductId    @i.Quantity</p> <a href="/shoppingcart/RemovefromCart/@i.ProductId">Remove from Cart</a>
+    }
+}

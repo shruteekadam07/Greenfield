@@ -4,6 +4,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using Specification;
+using EcommerceServices;
+
 
 namespace EcommerceWebApp.Controllers
 {
@@ -13,12 +16,15 @@ namespace EcommerceWebApp.Controllers
         public ActionResult Index()
         {
             Cart mycart = (Cart)this.HttpContext.Session["cart"];
-            ViewData["cart"]=mycart;
+            ICartService svc= new CartService(mycart);
+            List<Item> cart=svc.GetAll();
+            ViewData["cart"]=cart;
             return View();
         }
 
-        public ActionResult AddtoCart()
+        public ActionResult AddtoCart(int id)
         {
+            ViewBag.id = id;
 
             return View();
         }
@@ -34,7 +40,7 @@ namespace EcommerceWebApp.Controllers
         {
             Cart mycart = (Cart)this.HttpContext.Session["cart"];
             mycart.Items.RemoveAll((item) => (item.ProductId == id));
-            return View();
+            return RedirectToAction("Index","ShoppingCart");
         }
 
     }

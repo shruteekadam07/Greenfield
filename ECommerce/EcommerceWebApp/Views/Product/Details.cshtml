@@ -1,4 +1,4 @@
-﻿@using ECommerceEntities;
+﻿@using ECommerceEntities
 
 @{
     ViewBag.Title = "Details";
@@ -13,7 +13,7 @@
     <p>Unit Price: @theProduct.UnitPrice</p>
 
 
-    <a href="/shoppingcart/addtocart">Add to Cart</a>
+    <a href="/shoppingcart/addtocart/@theProduct.ProductId">Add to Cart</a>
 
 }
 
