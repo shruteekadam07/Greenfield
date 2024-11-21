@@ -1,0 +1,7 @@
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\TaskApp\bin\Debug\TaskApp.exe.config
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\TaskApp\bin\Debug\TaskApp.exe
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\TaskApp\bin\Debug\TaskApp.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\TaskApp\obj\Debug\TaskApp.csproj.AssemblyReference.cache
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\TaskApp\obj\Debug\TaskApp.csproj.CoreCompileInputs.cache
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\TaskApp\obj\Debug\TaskApp.exe
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\TaskApp\obj\Debug\TaskApp.pdb

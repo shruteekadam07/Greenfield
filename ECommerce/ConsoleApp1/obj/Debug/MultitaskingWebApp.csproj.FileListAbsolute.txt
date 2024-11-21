@@ -1,0 +1,7 @@
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ConsoleApp1\obj\Debug\MultitaskingWebApp.csproj.AssemblyReference.cache
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ConsoleApp1\obj\Debug\MultitaskingWebApp.csproj.CoreCompileInputs.cache
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

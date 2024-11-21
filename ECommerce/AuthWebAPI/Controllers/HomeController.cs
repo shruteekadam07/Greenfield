@@ -4,16 +4,23 @@ using System.Linq;
 using System.Web;
 using System.Web.Helpers;
 using System.Web.Mvc;
+using Specification;
+using EcommerceServices;
 
 namespace AuthWebAPI.Controllers
 {
     public class HomeController : Controller
     {
-        public ActionResult GetUser()
+        public ActionResult Index()
         {
             ViewBag.Title = "Home Page";
 
             return View();
+
+        }
+
+        public ActionResult GetUsers()
+        {
 
             //anonymous type----->object created without name, class known by its content
             var result = new
@@ -23,8 +30,7 @@ namespace AuthWebAPI.Controllers
                 LastName = "Kadam"
             };
             return Json(result,JsonRequestBehavior.AllowGet);
-            //
-            //
+           
         }
 
         public ActionResult Login()
@@ -38,7 +44,7 @@ namespace AuthWebAPI.Controllers
             string result = "invalid user";
             if (email == "shruti@gmail.com" && password == "123")
             {
-                result = "Vlid user";
+                result = "Valid user";
             }
             return Json(result, JsonRequestBehavior.AllowGet);
 
@@ -55,10 +61,13 @@ namespace AuthWebAPI.Controllers
         public ActionResult SignIn(string email, string password)
         {
 
-            //validation logic
-
-            return View(email);
-           // return Json();
+            IAuthService svc = new AuthService();
+            string result = "Invalid User";
+            if (svc.Login(email, password))
+            {
+                result = "Valid User";
+            }
+            return Json(result, JsonRequestBehavior.AllowGet);
 
         }
     }

@@ -1,0 +1,7 @@
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\MultitaskingAsyncApp\bin\Debug\MultitaskingAsyncApp.exe.config
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\MultitaskingAsyncApp\bin\Debug\MultitaskingAsyncApp.exe
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\MultitaskingAsyncApp\bin\Debug\MultitaskingAsyncApp.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\MultitaskingAsyncApp\obj\Debug\MultitaskingAsyncApp.csproj.AssemblyReference.cache
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\MultitaskingAsyncApp\obj\Debug\MultitaskingAsyncApp.csproj.CoreCompileInputs.cache
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\MultitaskingAsyncApp\obj\Debug\MultitaskingAsyncApp.exe
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\MultitaskingAsyncApp\obj\Debug\MultitaskingAsyncApp.pdb

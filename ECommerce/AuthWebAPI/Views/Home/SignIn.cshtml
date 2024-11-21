@@ -1,37 +1,62 @@
-﻿
+﻿﻿
 @{
     ViewBag.Title = "SignIn";
 }
 
-<h2>SignIn</h2>
-
-
+<h2>Signin</h2>
 <table>
     <tr>
-        <td>Email:</td>
-        <td><input type="text" id="txtEmail" /></td>
+        <td>Email </td>
+        <td><input type="email" id="email" /></td>
     </tr>
     <tr>
-        <td>Password:</td>
-        <td><input type="password" id="txtPassword" /></td>
+        <td>Password </td>
+        <td><input type="password" id="password" /></td>
     </tr>
     <tr>
-        <td>P</td>
-        <td><button onclick="onSignIn()">Login</button></td>
+        <td> </td>
+        <td><button id="SubmitButton" onclick="onLogin()">Submit</button></td>
     </tr>
 </table>
 
 <script>
-    var onSignIn = () => {
-        //Dom programming
-        let txtUserEmail = document.getElementById("txtEmail");
-        let email = txtUserEmail.value;
-        let txtUserPassword = document.getElementById("txtPassword");
-        let password = txtUserPassword.value;
-
-        //use asynchronous programming usig fetch 
 
 
-       
-    }
+
+    let onLogin = () => {
+        let Uemail = document.getElementById("email").value;
+        let Upassword = document.getElementById("password").value;
+
+
+        const url = "/home/SignIn";
+
+        const credential = {
+            email: Uemail,
+            password: Upassword
+        };
+
+        fetch(url, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(credential),
+        })
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+                return response.json();
+            })
+            .then(data => {
+                console.log('Success:', data);
+            })
+            .catch(error => {
+                console.error('There was an error!', error);
+            });
+    };
+
+
+
+
+
+
 </script>
