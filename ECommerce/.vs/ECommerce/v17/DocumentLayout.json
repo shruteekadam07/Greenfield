@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B07CB87-B6DB-4DDA-A078-3E0E9F9E478C}|EcommerceWebApp\\EcommerceWebApp.csproj|c:\\users\\shruti.kadam\\desktop\\greenfield\\ecommerce\\ecommercewebapp\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B07CB87-B6DB-4DDA-A078-3E0E9F9E478C}|EcommerceWebApp\\EcommerceWebApp.csproj|solutionrelative:ecommercewebapp\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA9B8A17-5528-4652-B985-1D78C3A85731}|AuthWebAPI\\AuthWebAPI.csproj|c:\\users\\shruti.kadam\\desktop\\greenfield\\ecommerce\\authwebapi\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA9B8A17-5528-4652-B985-1D78C3A85731}|AuthWebAPI\\AuthWebAPI.csproj|solutionrelative:authwebapi\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B07CB87-B6DB-4DDA-A078-3E0E9F9E478C}|EcommerceWebApp\\EcommerceWebApp.csproj|C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\ecommercewebapp\\views\\shoppingcart\\addtocart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6B07CB87-B6DB-4DDA-A078-3E0E9F9E478C}|EcommerceWebApp\\EcommerceWebApp.csproj|solutionrelative:ecommercewebapp\\views\\shoppingcart\\addtocart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AA9B8A17-5528-4652-B985-1D78C3A85731}|AuthWebAPI\\AuthWebAPI.csproj|c:\\users\\shruti.kadam\\desktop\\greenfield\\ecommerce\\authwebapi\\scripts\\register.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{AA9B8A17-5528-4652-B985-1D78C3A85731}|AuthWebAPI\\AuthWebAPI.csproj|solutionrelative:authwebapi\\scripts\\register.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B07CB87-B6DB-4DDA-A078-3E0E9F9E478C}|EcommerceWebApp\\EcommerceWebApp.csproj|C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\ecommercewebapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B07CB87-B6DB-4DDA-A078-3E0E9F9E478C}|EcommerceWebApp\\EcommerceWebApp.csproj|solutionrelative:ecommercewebapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA9B8A17-5528-4652-B985-1D78C3A85731}|AuthWebAPI\\AuthWebAPI.csproj|c:\\users\\shruti.kadam\\desktop\\greenfield\\ecommerce\\authwebapi\\views\\home\\login2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA9B8A17-5528-4652-B985-1D78C3A85731}|AuthWebAPI\\AuthWebAPI.csproj|solutionrelative:authwebapi\\views\\home\\login2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B07CB87-B6DB-4DDA-A078-3E0E9F9E478C}|EcommerceWebApp\\EcommerceWebApp.csproj|C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\ecommercewebapp\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B07CB87-B6DB-4DDA-A078-3E0E9F9E478C}|EcommerceWebApp\\EcommerceWebApp.csproj|solutionrelative:ecommercewebapp\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA9B8A17-5528-4652-B985-1D78C3A85731}|AuthWebAPI\\AuthWebAPI.csproj|c:\\users\\shruti.kadam\\desktop\\greenfield\\ecommerce\\authwebapi\\scripts\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{AA9B8A17-5528-4652-B985-1D78C3A85731}|AuthWebAPI\\AuthWebAPI.csproj|solutionrelative:authwebapi\\scripts\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA9B8A17-5528-4652-B985-1D78C3A85731}|AuthWebAPI\\AuthWebAPI.csproj|c:\\users\\shruti.kadam\\desktop\\greenfield\\ecommerce\\authwebapi\\views\\home\\jquerydemo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA9B8A17-5528-4652-B985-1D78C3A85731}|AuthWebAPI\\AuthWebAPI.csproj|solutionrelative:authwebapi\\views\\home\\jquerydemo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA9B8A17-5528-4652-B985-1D78C3A85731}|AuthWebAPI\\AuthWebAPI.csproj|c:\\users\\shruti.kadam\\desktop\\greenfield\\ecommerce\\authwebapi\\scripts\\jquerydom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{AA9B8A17-5528-4652-B985-1D78C3A85731}|AuthWebAPI\\AuthWebAPI.csproj|solutionrelative:authwebapi\\scripts\\jquerydom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA9B8A17-5528-4652-B985-1D78C3A85731}|AuthWebAPI\\AuthWebAPI.csproj|c:\\users\\shruti.kadam\\desktop\\greenfield\\ecommerce\\authwebapi\\scripts\\storage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{AA9B8A17-5528-4652-B985-1D78C3A85731}|AuthWebAPI\\AuthWebAPI.csproj|solutionrelative:authwebapi\\scripts\\storage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +38,98 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "login.js",
+              "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\AuthWebAPI\\Scripts\\login.js",
+              "RelativeDocumentMoniker": "AuthWebAPI\\Scripts\\login.js",
+              "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\AuthWebAPI\\Scripts\\login.js",
+              "RelativeToolTip": "AuthWebAPI\\Scripts\\login.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-22T10:30:35.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AddtoCart.cshtml",
-              "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\EcommerceWebApp\\Views\\ShoppingCart\\AddtoCart.cshtml",
-              "RelativeDocumentMoniker": "EcommerceWebApp\\Views\\ShoppingCart\\AddtoCart.cshtml",
-              "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\EcommerceWebApp\\Views\\ShoppingCart\\AddtoCart.cshtml",
-              "RelativeToolTip": "EcommerceWebApp\\Views\\ShoppingCart\\AddtoCart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T11:30:24.098Z"
+              "Title": "register.js",
+              "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\AuthWebAPI\\Scripts\\register.js",
+              "RelativeDocumentMoniker": "AuthWebAPI\\Scripts\\register.js",
+              "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\AuthWebAPI\\Scripts\\register.js",
+              "RelativeToolTip": "AuthWebAPI\\Scripts\\register.js",
+              "ViewState": "AQIAAA4AAACAaGZmZmYUwB4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-22T10:28:39.503Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ShoppingCartController.cs",
-              "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\EcommerceWebApp\\Controllers\\ShoppingCartController.cs",
-              "RelativeDocumentMoniker": "EcommerceWebApp\\Controllers\\ShoppingCartController.cs",
-              "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\EcommerceWebApp\\Controllers\\ShoppingCartController.cs",
-              "RelativeToolTip": "EcommerceWebApp\\Controllers\\ShoppingCartController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T11:23:44.418Z",
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\AuthWebAPI\\Views\\Home\\Register.cshtml",
+              "RelativeDocumentMoniker": "AuthWebAPI\\Views\\Home\\Register.cshtml",
+              "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\AuthWebAPI\\Views\\Home\\Register.cshtml",
+              "RelativeToolTip": "AuthWebAPI\\Views\\Home\\Register.cshtml",
+              "ViewState": "AQIAAAcAAAAAz8zMzMwHwBkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T10:19:34.489Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\EcommerceWebApp\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "EcommerceWebApp\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\EcommerceWebApp\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "EcommerceWebApp\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAACcAAAAA0szMzMwVwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T11:27:22.751Z"
+              "Title": "Login2.cshtml",
+              "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\AuthWebAPI\\Views\\Home\\Login2.cshtml",
+              "RelativeDocumentMoniker": "AuthWebAPI\\Views\\Home\\Login2.cshtml",
+              "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\AuthWebAPI\\Views\\Home\\Login2.cshtml",
+              "RelativeToolTip": "AuthWebAPI\\Views\\Home\\Login2.cshtml",
+              "ViewState": "AQIAABAAAAAA/v/////vvxgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T10:13:32.658Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\EcommerceWebApp\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "EcommerceWebApp\\Controllers\\OrderController.cs",
-              "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\EcommerceWebApp\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "EcommerceWebApp\\Controllers\\OrderController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T11:26:52.891Z"
+              "DocumentIndex": 5,
+              "Title": "jquerydom.js",
+              "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\AuthWebAPI\\Scripts\\jquerydom.js",
+              "RelativeDocumentMoniker": "AuthWebAPI\\Scripts\\jquerydom.js",
+              "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\AuthWebAPI\\Scripts\\jquerydom.js",
+              "RelativeToolTip": "AuthWebAPI\\Scripts\\jquerydom.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-22T09:57:37.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JqueryDemo.cshtml",
+              "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\AuthWebAPI\\Views\\Home\\JqueryDemo.cshtml",
+              "RelativeDocumentMoniker": "AuthWebAPI\\Views\\Home\\JqueryDemo.cshtml",
+              "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\AuthWebAPI\\Views\\Home\\JqueryDemo.cshtml",
+              "RelativeToolTip": "AuthWebAPI\\Views\\Home\\JqueryDemo.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T09:19:33.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "storage.js",
+              "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\AuthWebAPI\\Scripts\\storage.js",
+              "RelativeDocumentMoniker": "AuthWebAPI\\Scripts\\storage.js",
+              "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\AuthWebAPI\\Scripts\\storage.js",
+              "RelativeToolTip": "AuthWebAPI\\Scripts\\storage.js",
+              "ViewState": "AQIAABgAAAAgZ2ZmZiYowCgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-22T06:40:53.637Z",
+              "EditorCaption": ""
             }
           ]
         }

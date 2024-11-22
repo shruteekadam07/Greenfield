@@ -70,6 +70,29 @@ namespace AuthWebAPI.Controllers
             return Json(result, JsonRequestBehavior.AllowGet);
 
         }
+
+
+        //classical javascript and dom manipultaion
+        public ActionResult Storage()
+        {
+            return View();  
+        }
+
+
+        public ActionResult JqueryDemo()
+        {
+            return View();
+        }
+
+        public ActionResult Login2()
+        {
+            return View();
+        }
+
+        public ActionResult Register()
+        {
+            return View();
+        }
     }
 }
 

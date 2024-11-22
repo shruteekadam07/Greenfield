@@ -7,7 +7,6 @@ using System.Web.Mvc;
 using Specification;
 using EcommerceServices;
 
-
 namespace EcommerceWebApp.Controllers
 {
     public class ShoppingCartController : Controller
@@ -42,6 +41,5 @@ namespace EcommerceWebApp.Controllers
             mycart.Items.RemoveAll((item) => (item.ProductId == id));
             return RedirectToAction("Index","ShoppingCart");
         }
-
     }
 }
