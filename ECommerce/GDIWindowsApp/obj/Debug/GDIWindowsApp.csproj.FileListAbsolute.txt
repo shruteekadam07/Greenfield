@@ -1,0 +1,10 @@
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\GDIWindowsApp\bin\Debug\GDIWindowsApp.exe.config
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\GDIWindowsApp\bin\Debug\GDIWindowsApp.exe
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\GDIWindowsApp\bin\Debug\GDIWindowsApp.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\GDIWindowsApp\obj\Debug\GDIWindowsApp.csproj.AssemblyReference.cache
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\GDIWindowsApp\obj\Debug\GDIWindowsApp.Form1.resources
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\GDIWindowsApp\obj\Debug\GDIWindowsApp.Properties.Resources.resources
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\GDIWindowsApp\obj\Debug\GDIWindowsApp.csproj.GenerateResource.cache
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\GDIWindowsApp\obj\Debug\GDIWindowsApp.csproj.CoreCompileInputs.cache
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\GDIWindowsApp\obj\Debug\GDIWindowsApp.exe
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\GDIWindowsApp\obj\Debug\GDIWindowsApp.pdb

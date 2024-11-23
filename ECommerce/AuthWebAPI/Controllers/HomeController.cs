@@ -93,6 +93,11 @@ namespace AuthWebAPI.Controllers
         {
             return View();
         }
+
+        public ActionResult GDI()
+        {
+            return View();
+        }
     }
 }
 

@@ -242,6 +242,7 @@
     <Content Include="Views\Home\JqueryDemo.cshtml" />
     <Content Include="Views\Home\Login2.cshtml" />
     <Content Include="Views\Home\Register.cshtml" />
+    <Content Include="Views\Home\GDI.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
