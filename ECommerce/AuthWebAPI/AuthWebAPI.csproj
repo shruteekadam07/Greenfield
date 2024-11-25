@@ -213,6 +213,7 @@
     <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\ApiGroup.cshtml" />
     <Content Include="Areas\HelpPage\Views\Help\Api.cshtml" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
+    <Content Include="Scripts\creditcard.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />
     <Content Include="Scripts\jquery-3.4.1.slim.js" />
@@ -243,6 +244,7 @@
     <Content Include="Views\Home\Login2.cshtml" />
     <Content Include="Views\Home\Register.cshtml" />
     <Content Include="Views\Home\GDI.cshtml" />
+    <Content Include="Views\Home\CreditPayment.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

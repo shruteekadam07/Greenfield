@@ -98,6 +98,11 @@ namespace AuthWebAPI.Controllers
         {
             return View();
         }
+
+        public ActionResult CreditPayment()
+        {
+            return View();
+        }
     }
 }
 
