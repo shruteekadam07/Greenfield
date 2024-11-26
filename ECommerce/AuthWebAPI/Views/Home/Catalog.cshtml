@@ -1,0 +1,143 @@
+﻿@{
+    ViewBag.Title = "Catalog";
+}
+
+<h2>Catalog</h2>
+
+<style>
+    table {
+        border-collapse: collapse;
+        width: 100%;
+        border: 1px solid black;
+    }
+
+    th {
+        text-align: center;
+        padding: 8px;
+        background-color: #ff0000;
+        border: 1px solid black;
+    }
+
+    td {
+        text-align: center;
+        padding: 8px;
+        border: 1px solid black;
+    }
+
+    tr:nth-child(even) {
+        background-color: #00ff90;
+    }
+</style>
+
+<script src="~/Scripts/jquery-3.4.1.min.js"></script>
+<script>
+    $(document).ready(function () {
+        const url = '/api/products';
+        $.ajax({
+            url: url,
+            type: "GET",
+            dataType: 'json',
+            success: (product) => {
+                $.each(product, function (index, item) {
+                    var row = '<tr>' +
+                        '<td>' + item.ProductId + '</td>' +
+                        '<td>' + item.Title + '</td>' +
+                        '<td>' + item.Description + '</td>' +
+                        '<td>' + item.Quantity + '</td>' +
+                        '<td>' + item.UnitPrice + '</td>' +
+                        '</tr>';
+                    $('#product tbody').append(row);
+                });
+                console.log(product);
+            },
+            error: () => {
+                console.log("Something went wrong");
+            }
+        });
+
+        $('#btnget').on('click', function () {
+            let idselected = document.getElementById("productid").value;
+            const url2 = "/api/products/" + idselected;
+            console.log(url2);
+            console.log(idselected);
+
+            $.ajax({
+                url: url2,
+                type: "GET",
+                contentType: "application/json",
+                success: (result) => {
+                    var itemrow = '<tr>' +
+                        '<td>' + result.ProductId + '</td>' +
+                        '<td>' + result.Title + '</td>' +
+                        '</tr>';
+                    $('#productselected tbody').append(itemrow);
+                    console.log(result);
+                },
+                error: () => {
+                    console.log("Something has gone wrong");
+                }
+            });
+        });
+
+        $('#btndelete').on('click', function () {
+            let deleteid = document.getElementById("productid").value;
+            const url3 = "/api/products/" + deleteid;
+            console.log(url3);
+            console.log(deleteid); // This was using 'idselected' instead of 'deleteid'
+
+            $.ajax({
+                url: url3,
+                type: "DELETE",
+                contentType: "application/json",
+                success: function (response) {
+                    console.log("Product deleted");
+                }
+            });
+        });
+
+    });
+</script>
+
+
+<div>
+    <table id="product">
+        <thead>
+            <tr>
+                <th>Product Id</th>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Quantity</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Data from JQuery-->
+        </tbody>
+    </table>
+</div>
+
+<div>
+    <input type="number" id="productid" name="productid" />
+    <button id="btnget">GET BY ID</button>
+</div>
+<div>
+
+    <table id="productselected">
+        <thead>
+            <tr>
+                <th>Product Id</th>
+                <th>Name</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <!-- Data from JQuery-->
+        </tbody>
+    </table>
+</div>
+
+<div>
+    <button id="btndelete">Delete the product</button>
+
+</div>
+

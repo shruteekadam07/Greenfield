@@ -103,6 +103,11 @@ namespace AuthWebAPI.Controllers
         {
             return View();
         }
+
+        public ActionResult Catalog()
+        {
+            return View();
+        }
     }
 }
 

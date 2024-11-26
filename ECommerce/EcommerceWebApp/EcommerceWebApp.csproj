@@ -205,10 +205,10 @@
     <Content Include="Views\ShoppingCart\AddtoCart.cshtml" />
     <Content Include="Views\ShoppingCart\RemovefromCart.cshtml" />
     <Content Include="Views\Product\Index.cshtml" />
+    <Content Include="Views\Payments\CreditCard.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Views\Payments\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap.rtl.min.css.map" />

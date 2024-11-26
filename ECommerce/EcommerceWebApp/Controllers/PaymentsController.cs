@@ -9,7 +9,7 @@ namespace EcommerceWebApp.Controllers
     public class PaymentsController : Controller
     {
         // GET: Payments
-        public ActionResult Index()
+        public ActionResult CreditCard()
         {
             return View();
         }

@@ -19,6 +19,8 @@
     </tr>
 </table>
 
+<div id="div1"> Result will be shown here </div>
+
 <script>
 
 
@@ -35,7 +37,9 @@
             password: Upassword
         };
 
-        fetch(url, {
+        console.log(credential);
+
+        /* fetch(url, {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify(credential),
@@ -52,6 +56,22 @@
             .catch(error => {
                 console.error('There was an error!', error);
             });
+            */
+
+
+        $.ajax({
+            url: url,
+            type: "POST",
+            contentType: "application/json",
+            data: JSON.stringify(credential),
+            success: (result) => {
+                $("#div1").html(result);
+                console.log(result);
+            },
+            error: () => {
+                console.log("something has gone wrong");
+            }
+        });
     };
 
 
