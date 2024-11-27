@@ -3,7 +3,43 @@
   "WorkspaceRootPath": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AA9B8A17-5528-4652-B985-1D78C3A85731}|AuthWebAPI\\AuthWebAPI.csproj|c:\\users\\shruti.kadam\\desktop\\greenfield\\ecommerce\\authwebapi\\views\\home\\catalogajax.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A3473DB3-21EF-4ABC-BAF7-5A9543CD6A7F}|DBTestApp\\DBTestApp.csproj|c:\\users\\shruti.kadam\\desktop\\greenfield\\ecommerce\\dbtestapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3473DB3-21EF-4ABC-BAF7-5A9543CD6A7F}|DBTestApp\\DBTestApp.csproj|solutionrelative:dbtestapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B07CB87-B6DB-4DDA-A078-3E0E9F9E478C}|EcommerceWebApp\\EcommerceWebApp.csproj|C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\ecommercewebapp\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B07CB87-B6DB-4DDA-A078-3E0E9F9E478C}|EcommerceWebApp\\EcommerceWebApp.csproj|solutionrelative:ecommercewebapp\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B07CB87-B6DB-4DDA-A078-3E0E9F9E478C}|EcommerceWebApp\\EcommerceWebApp.csproj|c:\\users\\shruti.kadam\\desktop\\greenfield\\ecommerce\\ecommercewebapp\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B07CB87-B6DB-4DDA-A078-3E0E9F9E478C}|EcommerceWebApp\\EcommerceWebApp.csproj|solutionrelative:ecommercewebapp\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{939F9A7F-0D8D-4906-990B-5F2A485380CD}|Services\\ECommerceServices.csproj|c:\\users\\shruti.kadam\\desktop\\greenfield\\ecommerce\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{939F9A7F-0D8D-4906-990B-5F2A485380CD}|Services\\ECommerceServices.csproj|solutionrelative:services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0AE779-1505-4A41-816F-50354228F31E}|Specification\\Specification.csproj|C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\specification\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0AE779-1505-4A41-816F-50354228F31E}|Specification\\Specification.csproj|solutionrelative:specification\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B64227-6EF9-4F67-864B-5E69B5F2CE2B}|POCOLib\\ECommerceEntities.csproj|C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\pocolib\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B64227-6EF9-4F67-864B-5E69B5F2CE2B}|POCOLib\\ECommerceEntities.csproj|solutionrelative:pocolib\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7860ADC3-687E-45DB-BA8F-F4C55D72CEF5}|Orderprocessing\\Orderprocessing.csproj|C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\orderprocessing\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7860ADC3-687E-45DB-BA8F-F4C55D72CEF5}|Orderprocessing\\Orderprocessing.csproj|solutionrelative:orderprocessing\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B79BFD26-7838-4EE7-85B7-D4C2756F2F98}|GDIWindowsApp\\GDIWindowsApp.csproj|C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\gdiwindowsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B79BFD26-7838-4EE7-85B7-D4C2756F2F98}|GDIWindowsApp\\GDIWindowsApp.csproj|solutionrelative:gdiwindowsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B07CB87-B6DB-4DDA-A078-3E0E9F9E478C}|EcommerceWebApp\\EcommerceWebApp.csproj|C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\ecommercewebapp\\views\\shoppingcart\\addtocart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B07CB87-B6DB-4DDA-A078-3E0E9F9E478C}|EcommerceWebApp\\EcommerceWebApp.csproj|solutionrelative:ecommercewebapp\\views\\shoppingcart\\addtocart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA9B8A17-5528-4652-B985-1D78C3A85731}|AuthWebAPI\\AuthWebAPI.csproj|C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\authwebapi\\views\\home\\catalogajax.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AA9B8A17-5528-4652-B985-1D78C3A85731}|AuthWebAPI\\AuthWebAPI.csproj|solutionrelative:authwebapi\\views\\home\\catalogajax.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -11,7 +47,7 @@
       "RelativeMoniker": "D:0:0:{AA9B8A17-5528-4652-B985-1D78C3A85731}|AuthWebAPI\\AuthWebAPI.csproj|solutionrelative:authwebapi\\views\\home\\catalog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA9B8A17-5528-4652-B985-1D78C3A85731}|AuthWebAPI\\AuthWebAPI.csproj|c:\\users\\shruti.kadam\\desktop\\greenfield\\ecommerce\\authwebapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AA9B8A17-5528-4652-B985-1D78C3A85731}|AuthWebAPI\\AuthWebAPI.csproj|C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\authwebapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA9B8A17-5528-4652-B985-1D78C3A85731}|AuthWebAPI\\AuthWebAPI.csproj|solutionrelative:authwebapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,11 +58,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\DBTestApp\\Program.cs",
+              "RelativeDocumentMoniker": "DBTestApp\\Program.cs",
+              "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\DBTestApp\\Program.cs",
+              "RelativeToolTip": "DBTestApp\\Program.cs",
+              "ViewState": "AQIAAAoAAACAMzMzM7MVwCQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T10:44:27.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ShoppingCartController.cs",
+              "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\EcommerceWebApp\\Controllers\\ShoppingCartController.cs",
+              "RelativeDocumentMoniker": "EcommerceWebApp\\Controllers\\ShoppingCartController.cs",
+              "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\EcommerceWebApp\\Controllers\\ShoppingCartController.cs",
+              "RelativeToolTip": "EcommerceWebApp\\Controllers\\ShoppingCartController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T09:46:35.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\POCOLib\\Order.cs",
+              "RelativeDocumentMoniker": "POCOLib\\Order.cs",
+              "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\POCOLib\\Order.cs",
+              "RelativeToolTip": "POCOLib\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T09:42:52.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICartService.cs",
+              "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\Specification\\ICartService.cs",
+              "RelativeDocumentMoniker": "Specification\\ICartService.cs",
+              "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\Specification\\ICartService.cs",
+              "RelativeToolTip": "Specification\\ICartService.cs",
+              "ViewState": "AQIAAAMAAAAAPDMzMzPbvxAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T09:40:44.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "Services\\CartService.cs",
+              "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\Services\\CartService.cs",
+              "RelativeToolTip": "Services\\CartService.cs",
+              "ViewState": "AQIAAAIAAADczMzMzMwwwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T09:40:05.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\EcommerceWebApp\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "EcommerceWebApp\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\EcommerceWebApp\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "EcommerceWebApp\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAACUAAAAAzMzMzMwlwCkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T09:38:31.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\GDIWindowsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "GDIWindowsApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\GDIWindowsApp\\Form1.cs",
+              "RelativeToolTip": "GDIWindowsApp\\Form1.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAMwDcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T09:38:23.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\Orderprocessing\\Order.cs",
+              "RelativeDocumentMoniker": "Orderprocessing\\Order.cs",
+              "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\Orderprocessing\\Order.cs",
+              "RelativeToolTip": "Orderprocessing\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T09:32:23.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddtoCart.cshtml",
+              "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\EcommerceWebApp\\Views\\ShoppingCart\\AddtoCart.cshtml",
+              "RelativeDocumentMoniker": "EcommerceWebApp\\Views\\ShoppingCart\\AddtoCart.cshtml",
+              "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\EcommerceWebApp\\Views\\ShoppingCart\\AddtoCart.cshtml",
+              "RelativeToolTip": "EcommerceWebApp\\Views\\ShoppingCart\\AddtoCart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T09:20:43.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\AuthWebAPI\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "AuthWebAPI\\Controllers\\ProductsController.cs",
@@ -34,25 +182,23 @@
               "RelativeToolTip": "AuthWebAPI\\Controllers\\ProductsController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T08:43:15.816Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T08:43:15.816Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "CatalogAJAX.cshtml",
               "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\AuthWebAPI\\Views\\Home\\CatalogAJAX.cshtml",
               "RelativeDocumentMoniker": "AuthWebAPI\\Views\\Home\\CatalogAJAX.cshtml",
               "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\AuthWebAPI\\Views\\Home\\CatalogAJAX.cshtml",
               "RelativeToolTip": "AuthWebAPI\\Views\\Home\\CatalogAJAX.cshtml",
-              "ViewState": "AQIAAJwAAACAbWZmZiYwwF4AAAASAAAA",
+              "ViewState": "AQIAACQAAAAAl5mZmRkXwEkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-27T07:12:44.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T07:12:44.245Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "Catalog.cshtml",
               "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\AuthWebAPI\\Views\\Home\\Catalog.cshtml",
               "RelativeDocumentMoniker": "AuthWebAPI\\Views\\Home\\Catalog.cshtml",
@@ -60,8 +206,7 @@
               "RelativeToolTip": "AuthWebAPI\\Views\\Home\\Catalog.cshtml",
               "ViewState": "AQIAAHAAAAAAgAAAAADQv38AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T06:34:46.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T06:34:46.994Z"
             }
           ]
         }

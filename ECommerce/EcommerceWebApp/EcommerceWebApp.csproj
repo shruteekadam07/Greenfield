@@ -242,6 +242,10 @@
       <Project>{fb8f6d6a-cc5b-4917-af67-f4e34224efd1}</Project>
       <Name>Catalog</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Orderprocessing\Orderprocessing.csproj">
+      <Project>{7860ADC3-687E-45DB-BA8F-F4C55D72CEF5}</Project>
+      <Name>Orderprocessing</Name>
+    </ProjectReference>
     <ProjectReference Include="..\POCOLib\ECommerceEntities.csproj">
       <Project>{20b64227-6ef9-4f67-864b-5e69b5f2ce2b}</Project>
       <Name>ECommerceEntities</Name>

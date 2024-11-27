@@ -53,7 +53,7 @@ namespace GDIWindowsApp
                 string filename=ofd.FileName;
                 BinaryFormatter bf = new BinaryFormatter();
                 FileStream fs=new FileStream(filename,FileMode.OpenOrCreate);
-                bf.Serialize(fs, shapes);
+                //bf.Serialize(fs, shapes);
                 fs.Close();
             }
         }

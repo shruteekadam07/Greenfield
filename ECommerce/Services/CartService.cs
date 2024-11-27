@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using ECommerceEntities;
 
 
-namespace EcommerceServices
+namespace ECommerceServices
 
 {
     public class CartService : ICartService
@@ -24,7 +24,7 @@ namespace EcommerceServices
             return false;
         }
 
-        public bool Empty()
+        public bool Clear()
         {
             this.theCart.Items.Clear();
             return false;
@@ -33,6 +33,11 @@ namespace EcommerceServices
         public List<Item> GetAll()
         {
             return new List<Item>();
+        }
+
+        public double GetTotalAmount(List<Item> items)
+        {
+            throw new NotImplementedException();
         }
 
         public bool RemoveFromCart(int id)

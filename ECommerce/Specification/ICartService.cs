@@ -12,7 +12,9 @@ namespace Specification
         List<Item> GetAll();
         bool AddToCart(Item item);
         bool RemoveFromCart(int id);
-        bool Empty();
+        bool Clear();
+        double GetTotalAmount(List<Item> items);
+
 
 
     }

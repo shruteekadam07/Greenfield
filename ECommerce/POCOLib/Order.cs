@@ -12,5 +12,7 @@ namespace ECommerceEntities
         public DateTime Orderdate { get; set; }
         public double Amount { get; set; }
         public string Status { get; set; }
+        public Cart myCart { get; set; }
+
     }
 }

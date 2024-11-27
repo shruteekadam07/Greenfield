@@ -190,3 +190,5 @@ C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\EcommerceWebApp\bin\System.Nu
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\EcommerceWebApp\bin\System.Threading.Tasks.Extensions.xml
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\EcommerceWebApp\bin\Microsoft.Bcl.AsyncInterfaces.xml
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\EcommerceWebApp\bin\System.Buffers.xml
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\EcommerceWebApp\bin\Orderprocessing.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\EcommerceWebApp\bin\Orderprocessing.pdb

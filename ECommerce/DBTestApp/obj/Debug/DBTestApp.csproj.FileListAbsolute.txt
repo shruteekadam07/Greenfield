@@ -1,0 +1,7 @@
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\DBTestApp\bin\Debug\DBTestApp.exe.config
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\DBTestApp\bin\Debug\DBTestApp.exe
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\DBTestApp\bin\Debug\DBTestApp.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\DBTestApp\obj\Debug\DBTestApp.csproj.AssemblyReference.cache
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\DBTestApp\obj\Debug\DBTestApp.csproj.CoreCompileInputs.cache
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\DBTestApp\obj\Debug\DBTestApp.exe
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\DBTestApp\obj\Debug\DBTestApp.pdb
