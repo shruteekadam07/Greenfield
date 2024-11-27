@@ -4,6 +4,48 @@
 
 <h2>Catalog</h2>
 
+<div>
+    <table id="product">
+        <thead>
+            <tr>
+                <th>Product Id</th>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Quantity</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Data from JQuery-->
+        </tbody>
+    </table>
+</div>
+
+<div>
+    <input type="number" id="productid" name="productid" />
+    <button id="btnget">GET BY ID</button>
+</div>
+
+<div>
+
+    <table id="productselected">
+        <thead>
+            <tr>
+                <th>Product Id</th>
+                <th>Name</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <!-- Data from JQuery-->
+        </tbody>
+    </table>
+</div>
+
+<div>
+    <button id="btndelete">Delete the product</button>
+</div>
+
 <style>
     table {
         border-collapse: collapse;
@@ -83,7 +125,7 @@
             let deleteid = document.getElementById("productid").value;
             const url3 = "/api/products/" + deleteid;
             console.log(url3);
-            console.log(deleteid); // This was using 'idselected' instead of 'deleteid'
+            console.log(deleteid); 
 
             $.ajax({
                 url: url3,
@@ -99,45 +141,5 @@
 </script>
 
 
-<div>
-    <table id="product">
-        <thead>
-            <tr>
-                <th>Product Id</th>
-                <th>Name</th>
-                <th>Description</th>
-                <th>Quantity</th>
-                <th>Price</th>
-            </tr>
-        </thead>
-        <tbody>
-            <!-- Data from JQuery-->
-        </tbody>
-    </table>
-</div>
 
-<div>
-    <input type="number" id="productid" name="productid" />
-    <button id="btnget">GET BY ID</button>
-</div>
-<div>
-
-    <table id="productselected">
-        <thead>
-            <tr>
-                <th>Product Id</th>
-                <th>Name</th>
-            </tr>
-        </thead>
-
-        <tbody>
-            <!-- Data from JQuery-->
-        </tbody>
-    </table>
-</div>
-
-<div>
-    <button id="btndelete">Delete the product</button>
-
-</div>
 
