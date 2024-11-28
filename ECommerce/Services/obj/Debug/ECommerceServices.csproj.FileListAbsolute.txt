@@ -33,3 +33,5 @@ C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\bin\Debug\ECommerceS
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\bin\Debug\ECommerceServices.pdb
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\obj\Debug\ECommerceServices.dll
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\obj\Debug\ECommerceServices.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\bin\Debug\ECommerceDALLib.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\bin\Debug\ECommerceDALLib.pdb

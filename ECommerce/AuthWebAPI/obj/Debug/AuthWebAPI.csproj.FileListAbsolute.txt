@@ -225,3 +225,5 @@ C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\AuthWebAPI\bin\EcommerceEntit
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\AuthWebAPI\bin\ECommerceServices.dll
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\AuthWebAPI\bin\ECommerceServices.pdb
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\AuthWebAPI\bin\ECommerceServices.dll.config
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\AuthWebAPI\bin\ECommerceDALLib.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\AuthWebAPI\bin\ECommerceDALLib.pdb

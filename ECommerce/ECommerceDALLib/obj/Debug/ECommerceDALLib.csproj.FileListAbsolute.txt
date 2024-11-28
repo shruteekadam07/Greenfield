@@ -1,0 +1,11 @@
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommerceDALLib\bin\Debug\ECommerceDALLib.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommerceDALLib\bin\Debug\ECommerceDALLib.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommerceDALLib\bin\Debug\EcommerceEntities.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommerceDALLib\bin\Debug\Specification.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommerceDALLib\bin\Debug\EcommerceEntities.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommerceDALLib\bin\Debug\Specification.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommerceDALLib\obj\Debug\ECommerceDALLib.csproj.AssemblyReference.cache
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommerceDALLib\obj\Debug\ECommerceDALLib.csproj.CoreCompileInputs.cache
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommerceDALLib\obj\Debug\ECommerc.BE174FDC.Up2Date
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommerceDALLib\obj\Debug\ECommerceDALLib.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommerceDALLib\obj\Debug\ECommerceDALLib.pdb

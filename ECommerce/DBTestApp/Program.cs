@@ -41,8 +41,6 @@ namespace DBTestApp
                 con.Close();
             }
 
-
-
         }
     }
 }

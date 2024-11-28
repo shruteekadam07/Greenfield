@@ -44,14 +44,19 @@
     <Compile Include="AuthService.cs" />
     <Compile Include="AuthService2.cs" />
     <Compile Include="CartService.cs" />
+    <Compile Include="DBServices\ProductService.cs" />
     <Compile Include="OrderService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ProductService.cs" />
+    <Compile Include="RepoServices\ProductService.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\BinaryDataRepositoryLib\BinaryDataRepositoryLib.csproj">
       <Project>{1180C3FE-9BA7-4C7D-B9DF-C9098F97EE28}</Project>
       <Name>BinaryDataRepositoryLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ECommerceDALLib\ECommerceDALLib.csproj">
+      <Project>{7aa75e3d-b849-45c6-8d5a-cc27186dcc2e}</Project>
+      <Name>ECommerceDALLib</Name>
     </ProjectReference>
     <ProjectReference Include="..\JsonDataRepositoryLib\JsonDataRepositoryLib.csproj">
       <Project>{62ef25e9-fb89-4e97-a09e-1867d109397b}</Project>
