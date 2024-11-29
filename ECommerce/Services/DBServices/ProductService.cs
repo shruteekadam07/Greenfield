@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using ECommerceEntities;
 using Specification;
-using ECommerceDALLib;
+using ECommerceDALLib.ConnectedDataAccess;
 
 namespace ECommerceServices.DBServices
 {
@@ -13,35 +13,34 @@ namespace ECommerceServices.DBServices
     {
         public bool Delete(int id)
         {
-            DBManager.Delete(id);
-
+            DBManager dBManager = new DBManager();
+            dBManager.Delete(id);
             return false;
         }
 
         public Product Get(int id)
         {
-            Product foundProduct = DBManager.GetById(id);
-
+            DBManager dBManager = new DBManager();
+            Product foundProduct = dBManager.GetById(id);
             return foundProduct;
         }
 
         public List<Product> GetAll()
         {
-            List<Product> products = DBManager.GetAll();
+            DBManager dBManager = new DBManager();
+            List<Product> products = dBManager.GetAll();
             return products;
         }
 
         public bool Insert(Product product)
         {
             List<Product> allProducts = GetAll();
-
             return false;
         }
 
         public bool Update(Product productTobeUpdated)
         {
             Product theProduct = Get(productTobeUpdated.ProductId);
-
             return false;
         }
     }

@@ -9,17 +9,17 @@ using System.Net.Http.Headers;
 using ECommerceEntities;
 using Specification;
 
-namespace ECommerceDALLib
+namespace ECommerceDALLib.ConnectedDataAccess
 {
-    public class DBManager 
+    public class DBManager :IDBManager
     {
         public static string conString = @"data source=shc-sql-01.database.windows.net ; database=HangFireCatalog_VG; User Id=tmgreadonly; Password=#p7P>Wzs;";
 
-        public static bool Insert(Product product)
+        public  bool Insert(Product product)
         {
             bool status = false;
             IDbConnection con = new SqlConnection(conString);
-            string query = "INSERT INTO products (Id, Name, Description, UnitPrice, Quantity, Image)"
+            string query = "INSERT INTO products_shruti (Id, Name, Description, UnitPrice, Quantity, Image)"
                            + "values(" + product.ProductId + ", '" + product.Title + "','" + product.Description + "','" + product.UnitPrice + "','" + product.Quantity + "','" + product.ImageUrl+ "')";
 
             IDbCommand cmd = new SqlCommand(query, con as SqlConnection);
@@ -40,7 +40,7 @@ namespace ECommerceDALLib
             return status;
         }
 
-        public static bool Update(Product product)
+        public  bool Update(Product product)
         {
             /*  bool status = false;
              IDbConnection con = new SqlConnection(conString);
@@ -66,16 +66,9 @@ namespace ECommerceDALLib
 
                 bool status = false;
                 IDbConnection con = new SqlConnection(conString);
-                // Use parameterized query to avoid SQL injection
-                string query = "UPDATE products SET Title = @Title, Description = @Description, UnitPrice = @UnitPrice, Quantity = @Quantity, ImageUrl = @ImageUrl WHERE 'ProductId = @ProductId";
-                IDbCommand cmd = new SqlCommand(query, con as SqlConnection);
-                // Add parameters to avoid SQL injection
-                cmd.Parameters.Add(new SqlParameter("@Title", product.Title));
-                cmd.Parameters.Add(new SqlParameter("@Description", product.Description));
-                cmd.Parameters.Add(new SqlParameter("@UnitPrice", product.UnitPrice));
-                cmd.Parameters.Add(new SqlParameter("@Quantity", product.Quantity));
-                cmd.Parameters.Add(new SqlParameter("@Image", product.ImageUrl));
-                cmd.Parameters.Add(new SqlParameter("@ProductId", product.ProductId));
+            // Use parameterized query to avoid SQL injection
+            string query = "UPDATE products_shruti SET Name='" + product.Title + "', Description='" + product.Description + "', UnitPrice=" + product.UnitPrice + ", Quantity=" + product.Quantity + ", Image='" + product.ImageUrl + "' WHERE id = " + product.ProductId + "";
+            IDbCommand cmd = new SqlCommand(query, con as SqlConnection);
 
                 try
                 {
@@ -96,14 +89,13 @@ namespace ECommerceDALLib
                     con.Close();
                 }
 
-                return status;
-            
+                return status;          
         }
 
-        public static void Delete(int id)
+        public  void Delete(int id)
         {
             IDbConnection con = new SqlConnection(conString);
-            string query = "DELETE from products_shruti WHERE Id=2";
+            string query = "DELETE from products_shruti WHERE Id="+id;
             IDbCommand cmd = new SqlCommand(query, con as SqlConnection);
             try
             {
@@ -119,8 +111,7 @@ namespace ECommerceDALLib
                 con.Close();
             }
         }
-
-        public static void GetCount()
+        public  void GetCount()
         {
 
             IDbConnection con = new SqlConnection(conString);
@@ -143,8 +134,7 @@ namespace ECommerceDALLib
             }
         }
 
-
-        public static List<Product> GetAll()
+        public  List<Product> GetAll()
         {
             List<Product> products = new List<Product>();
 
@@ -157,21 +147,18 @@ namespace ECommerceDALLib
                 IDataReader dr = cmd.ExecuteReader();
                 while (dr.Read())
                 {
+                    int Id = int.Parse(dr["Id"].ToString());
                     string name = dr["Name"].ToString();
                     string description = dr["Description"].ToString();
                     int quantity = int.Parse(dr["Quantity"].ToString());
                     int unitprice = int.Parse(dr["UnitPrice"].ToString());
-                    int id = int.Parse(dr["Id"].ToString());
-
-
 
                     Product product = new Product();
+                    product.ProductId = Id;
                     product.Title = name;
                     product.Description = description;
                     product.Quantity = quantity;
                     product.UnitPrice = unitprice;
-                    product.ProductId = id;
-
 
                     products.Add(product);
 
@@ -191,28 +178,31 @@ namespace ECommerceDALLib
 
         }
 
-        public static Product GetById(int id)
+        public  Product GetById(int id)
         {
             List<Product> products = new List<Product>();
 
             IDbConnection con = new SqlConnection(conString);
-            string query = "SELECT * from products WHERE Id=" + id;
+            string query = "SELECT * from products_shruti WHERE Id=" + id;
             IDbCommand cmd = new SqlCommand(query, con as SqlConnection);
-            Product product = new Product();
+            Product p = new Product();
             try
             {
                 con.Open();
                 IDataReader dr = cmd.ExecuteReader();
                 while (dr.Read())
                 {
-                    string title = dr["Title"].ToString();
+                    int Id = int.Parse(dr["Id"].ToString());
+                    string name = dr["Name"].ToString();
                     string description = dr["Description"].ToString();
                     int quantity = int.Parse(dr["Quantity"].ToString());
-                   
-                    product.Title = title;
-                    product.Description = description;
-                    product.Quantity = quantity;
-                    products.Add(product);
+                    int UnitPrice = int.Parse(dr["UnitPrice"].ToString());
+
+                    p.ProductId = Id;
+                    p.Title = name;
+                    p.Description = description;
+                    p.Quantity = quantity;
+                    p.UnitPrice = UnitPrice;
 
                 }
                 dr.Close();
@@ -226,7 +216,7 @@ namespace ECommerceDALLib
 
                 con.Close();
             }
-           return product;
+           return p;
         }
     }
 }

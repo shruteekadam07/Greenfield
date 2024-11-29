@@ -137,6 +137,27 @@
             });
         });
 
+        $('#updatebtn').on("click", function () {
+            let id = $("#id").html();  // Use this div to hold the product ID for the update
+            let name = $("#Name").val();
+            let description = $("#Description").val();
+            let quantity = $("#Quantity").val();
+            let unitprice = $("#UnitPrice").val();
+
+            // Validate the inputs
+            if (!name || !description || !quantity || !unitprice) {
+                alert("Please fill in all fields.");
+                return;
+            }
+
+            let product = {
+                ProductId: id,
+                Title: name,          // Note: API may use "Title" instead of "Name"
+                Description: description,
+                Quantity: quantity,
+                UnitPrice: unitprice
+            };
+
 
 
     });

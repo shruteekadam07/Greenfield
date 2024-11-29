@@ -1,0 +1,14 @@
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\DisconnectedTestApp\bin\Debug\DisconnectedTestApp.exe.config
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\DisconnectedTestApp\bin\Debug\DisconnectedTestApp.exe
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\DisconnectedTestApp\bin\Debug\DisconnectedTestApp.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\DisconnectedTestApp\bin\Debug\ECommerceDALLib.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\DisconnectedTestApp\bin\Debug\EcommerceEntities.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\DisconnectedTestApp\bin\Debug\ECommerceDALLib.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\DisconnectedTestApp\bin\Debug\EcommerceEntities.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\DisconnectedTestApp\obj\Debug\DisconnectedTestApp.csproj.AssemblyReference.cache
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\DisconnectedTestApp\obj\Debug\DisconnectedTestApp.csproj.CoreCompileInputs.cache
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\DisconnectedTestApp\obj\Debug\Disconne.2AA9C5B2.Up2Date
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\DisconnectedTestApp\obj\Debug\DisconnectedTestApp.exe
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\DisconnectedTestApp\obj\Debug\DisconnectedTestApp.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\DisconnectedTestApp\bin\Debug\Specification.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\DisconnectedTestApp\bin\Debug\Specification.pdb

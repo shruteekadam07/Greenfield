@@ -85,3 +85,5 @@ C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommercetest\bin\Debug\EComm
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommercetest\bin\Debug\EcommerceEntities.pdb
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommercetest\bin\Debug\ECommerceServices.pdb
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommercetest\bin\Debug\ECommerceServices.dll.config
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommercetest\bin\Debug\ECommerceDALLib.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommercetest\bin\Debug\ECommerceDALLib.pdb

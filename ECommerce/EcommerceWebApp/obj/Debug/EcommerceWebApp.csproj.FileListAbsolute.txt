@@ -192,3 +192,5 @@ C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\EcommerceWebApp\bin\Microsoft
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\EcommerceWebApp\bin\System.Buffers.xml
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\EcommerceWebApp\bin\Orderprocessing.dll
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\EcommerceWebApp\bin\Orderprocessing.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\EcommerceWebApp\bin\ECommerceDALLib.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\EcommerceWebApp\bin\ECommerceDALLib.pdb
