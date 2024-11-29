@@ -12,3 +12,6 @@ C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\DisconnectedTestApp\obj\Debug
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\DisconnectedTestApp\obj\Debug\DisconnectedTestApp.pdb
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\DisconnectedTestApp\bin\Debug\Specification.dll
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\DisconnectedTestApp\bin\Debug\Specification.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\DisconnectedTestApp\bin\Debug\EntityFramework.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\DisconnectedTestApp\bin\Debug\ECommerceDALLib.dll.config
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\DisconnectedTestApp\bin\Debug\EntityFramework.xml

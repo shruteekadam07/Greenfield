@@ -227,3 +227,6 @@ C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\AuthWebAPI\bin\ECommerceServi
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\AuthWebAPI\bin\ECommerceServices.dll.config
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\AuthWebAPI\bin\ECommerceDALLib.dll
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\AuthWebAPI\bin\ECommerceDALLib.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\AuthWebAPI\bin\EntityFramework.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\AuthWebAPI\bin\ECommerceDALLib.dll.config
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\AuthWebAPI\bin\EntityFramework.xml

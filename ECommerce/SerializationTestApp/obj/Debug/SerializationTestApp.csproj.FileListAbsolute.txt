@@ -75,3 +75,6 @@ C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\SerializationTestApp\bin\Debu
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\SerializationTestApp\bin\Debug\ECommerceServices.dll.config
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\SerializationTestApp\bin\Debug\ECommerceDALLib.dll
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\SerializationTestApp\bin\Debug\ECommerceDALLib.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\SerializationTestApp\bin\Debug\EntityFramework.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\SerializationTestApp\bin\Debug\ECommerceDALLib.dll.config
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\SerializationTestApp\bin\Debug\EntityFramework.xml

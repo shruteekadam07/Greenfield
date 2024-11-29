@@ -9,3 +9,8 @@ C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommerceDALLib\obj\Debug\ECo
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommerceDALLib\obj\Debug\ECommerc.BE174FDC.Up2Date
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommerceDALLib\obj\Debug\ECommerceDALLib.dll
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommerceDALLib\obj\Debug\ECommerceDALLib.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommerceDALLib\bin\Debug\ECommerceDALLib.dll.config
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommerceDALLib\bin\Debug\EntityFramework.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommerceDALLib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommerceDALLib\bin\Debug\EntityFramework.xml
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\ECommerceDALLib\bin\Debug\EntityFramework.SqlServer.xml

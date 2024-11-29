@@ -3,48 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD3005F5-3AC7-4012-99CD-A9DDB878F1EA}|DisconnectedTestApp\\DisconnectedTestApp.csproj|C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\disconnectedtestapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD3005F5-3AC7-4012-99CD-A9DDB878F1EA}|DisconnectedTestApp\\DisconnectedTestApp.csproj|solutionrelative:disconnectedtestapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F34F8BD0-2EBA-4A37-AAE7-6F91C0A33900}|ORMTestApp\\ORMTestApp.csproj|c:\\users\\shruti.kadam\\desktop\\greenfield\\ecommerce\\ormtestapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F34F8BD0-2EBA-4A37-AAE7-6F91C0A33900}|ORMTestApp\\ORMTestApp.csproj|solutionrelative:ormtestapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7AA75E3D-B849-45C6-8D5A-CC27186DCC2E}|ECommerceDALLib\\ECommerceDALLib.csproj|c:\\users\\shruti.kadam\\desktop\\greenfield\\ecommerce\\ecommercedallib\\disconnected\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AA75E3D-B849-45C6-8D5A-CC27186DCC2E}|ECommerceDALLib\\ECommerceDALLib.csproj|solutionrelative:ecommercedallib\\disconnected\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7AA75E3D-B849-45C6-8D5A-CC27186DCC2E}|ECommerceDALLib\\ECommerceDALLib.csproj|c:\\users\\shruti.kadam\\desktop\\greenfield\\ecommerce\\ecommercedallib\\orm\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AA75E3D-B849-45C6-8D5A-CC27186DCC2E}|ECommerceDALLib\\ECommerceDALLib.csproj|solutionrelative:ecommercedallib\\orm\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20B64227-6EF9-4F67-864B-5E69B5F2CE2B}|POCOLib\\ECommerceEntities.csproj|C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\pocolib\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20B64227-6EF9-4F67-864B-5E69B5F2CE2B}|POCOLib\\ECommerceEntities.csproj|solutionrelative:pocolib\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F34F8BD0-2EBA-4A37-AAE7-6F91C0A33900}|ORMTestApp\\ORMTestApp.csproj|c:\\users\\shruti.kadam\\desktop\\greenfield\\ecommerce\\ormtestapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F34F8BD0-2EBA-4A37-AAE7-6F91C0A33900}|ORMTestApp\\ORMTestApp.csproj|solutionrelative:ormtestapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{939F9A7F-0D8D-4906-990B-5F2A485380CD}|Services\\ECommerceServices.csproj|C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\services\\dbservices\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{939F9A7F-0D8D-4906-990B-5F2A485380CD}|Services\\ECommerceServices.csproj|solutionrelative:services\\dbservices\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AA75E3D-B849-45C6-8D5A-CC27186DCC2E}|ECommerceDALLib\\ECommerceDALLib.csproj|C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\ecommercedallib\\connected\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7AA75E3D-B849-45C6-8D5A-CC27186DCC2E}|ECommerceDALLib\\ECommerceDALLib.csproj|c:\\users\\shruti.kadam\\desktop\\greenfield\\ecommerce\\ecommercedallib\\connected\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7AA75E3D-B849-45C6-8D5A-CC27186DCC2E}|ECommerceDALLib\\ECommerceDALLib.csproj|solutionrelative:ecommercedallib\\connected\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA9B8A17-5528-4652-B985-1D78C3A85731}|AuthWebAPI\\AuthWebAPI.csproj|C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\authwebapi\\views\\home\\catalogajax.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AA9B8A17-5528-4652-B985-1D78C3A85731}|AuthWebAPI\\AuthWebAPI.csproj|solutionrelative:authwebapi\\views\\home\\catalogajax.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA9B8A17-5528-4652-B985-1D78C3A85731}|AuthWebAPI\\AuthWebAPI.csproj|C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\authwebapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA9B8A17-5528-4652-B985-1D78C3A85731}|AuthWebAPI\\AuthWebAPI.csproj|solutionrelative:authwebapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C0AE779-1505-4A41-816F-50354228F31E}|Specification\\Specification.csproj|C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\specification\\idbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C0AE779-1505-4A41-816F-50354228F31E}|Specification\\Specification.csproj|solutionrelative:specification\\idbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA9B8A17-5528-4652-B985-1D78C3A85731}|AuthWebAPI\\AuthWebAPI.csproj|C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\authwebapi\\views\\home\\catalog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AA9B8A17-5528-4652-B985-1D78C3A85731}|AuthWebAPI\\AuthWebAPI.csproj|solutionrelative:authwebapi\\views\\home\\catalog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA9B8A17-5528-4652-B985-1D78C3A85731}|AuthWebAPI\\AuthWebAPI.csproj|C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\authwebapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA9B8A17-5528-4652-B985-1D78C3A85731}|AuthWebAPI\\AuthWebAPI.csproj|solutionrelative:authwebapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{939F9A7F-0D8D-4906-990B-5F2A485380CD}|Services\\ECommerceServices.csproj|C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\services\\reposervices\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{939F9A7F-0D8D-4906-990B-5F2A485380CD}|Services\\ECommerceServices.csproj|solutionrelative:services\\reposervices\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD3005F5-3AC7-4012-99CD-A9DDB878F1EA}|DisconnectedTestApp\\DisconnectedTestApp.csproj|c:\\users\\shruti.kadam\\desktop\\greenfield\\ecommerce\\disconnectedtestapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3005F5-3AC7-4012-99CD-A9DDB878F1EA}|DisconnectedTestApp\\DisconnectedTestApp.csproj|solutionrelative:disconnectedtestapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,17 +30,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\DisconnectedTestApp\\Program.cs",
               "RelativeDocumentMoniker": "DisconnectedTestApp\\Program.cs",
               "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\DisconnectedTestApp\\Program.cs",
               "RelativeToolTip": "DisconnectedTestApp\\Program.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAkwCAAAAARAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAkwCMAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-29T07:04:57.681Z",
               "IsPinned": true,
@@ -72,129 +48,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DBManager.cs",
-              "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\ECommerceDALLib\\Disconnected\\DBManager.cs",
-              "RelativeDocumentMoniker": "ECommerceDALLib\\Disconnected\\DBManager.cs",
-              "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\ECommerceDALLib\\Disconnected\\DBManager.cs",
-              "RelativeToolTip": "ECommerceDALLib\\Disconnected\\DBManager.cs",
-              "ViewState": "AQIAABQAAAAAmJmZmZntvy0AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T06:45:47.824Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\Services\\DBServices\\ProductService.cs",
-              "RelativeDocumentMoniker": "Services\\DBServices\\ProductService.cs",
-              "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\Services\\DBServices\\ProductService.cs",
-              "RelativeToolTip": "Services\\DBServices\\ProductService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T07:15:17.265Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\POCOLib\\Product.cs",
-              "RelativeDocumentMoniker": "POCOLib\\Product.cs",
-              "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\POCOLib\\Product.cs",
-              "RelativeToolTip": "POCOLib\\Product.cs",
-              "ViewState": "AQIAAAsAAACgmZmZmZkjwA0AAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T07:20:59.18Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\AuthWebAPI\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "AuthWebAPI\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\AuthWebAPI\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "AuthWebAPI\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T06:05:09.062Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CatalogAJAX.cshtml",
-              "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\AuthWebAPI\\Views\\Home\\CatalogAJAX.cshtml",
-              "RelativeDocumentMoniker": "AuthWebAPI\\Views\\Home\\CatalogAJAX.cshtml",
-              "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\AuthWebAPI\\Views\\Home\\CatalogAJAX.cshtml",
-              "RelativeToolTip": "AuthWebAPI\\Views\\Home\\CatalogAJAX.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-29T06:02:48.895Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\Services\\RepoServices\\ProductService.cs",
-              "RelativeDocumentMoniker": "Services\\RepoServices\\ProductService.cs",
-              "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\Services\\RepoServices\\ProductService.cs",
-              "RelativeToolTip": "Services\\RepoServices\\ProductService.cs",
-              "ViewState": "AQIAAAAAAAAsMzMzM3MvwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T13:20:45.621Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IDBManager.cs",
-              "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\Specification\\IDBManager.cs",
-              "RelativeDocumentMoniker": "Specification\\IDBManager.cs",
-              "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\Specification\\IDBManager.cs",
-              "RelativeToolTip": "Specification\\IDBManager.cs",
-              "ViewState": "AQIAAAQAAABAAQAAAAARwA8AAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T10:25:42.211Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "DBManager.cs",
               "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\ECommerceDALLib\\Connected\\DBManager.cs",
               "RelativeDocumentMoniker": "ECommerceDALLib\\Connected\\DBManager.cs",
               "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\ECommerceDALLib\\Connected\\DBManager.cs",
               "RelativeToolTip": "ECommerceDALLib\\Connected\\DBManager.cs",
-              "ViewState": "AQIAADwAAACAnJmZmVklwKEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T09:45:50.14Z",
+              "WhenOpened": "2024-11-29T11:41:50.018Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Catalog.cshtml",
-              "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\AuthWebAPI\\Views\\Home\\Catalog.cshtml",
-              "RelativeDocumentMoniker": "AuthWebAPI\\Views\\Home\\Catalog.cshtml",
-              "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\AuthWebAPI\\Views\\Home\\Catalog.cshtml",
-              "RelativeToolTip": "AuthWebAPI\\Views\\Home\\Catalog.cshtml",
-              "ViewState": "AQIAAFQAAACAzszMzIwlwJ4AAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T06:34:46.994Z"
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\ORMTestApp\\App.config",
+              "RelativeDocumentMoniker": "ORMTestApp\\App.config",
+              "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\ORMTestApp\\App.config",
+              "RelativeToolTip": "ORMTestApp\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-29T11:41:03.221Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\AuthWebAPI\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "AuthWebAPI\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\AuthWebAPI\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "AuthWebAPI\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAGQAAACAAAAAAIAmwGoAAAAeAAAA",
+              "DocumentIndex": 1,
+              "Title": "DBManager.cs",
+              "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\ECommerceDALLib\\ORM\\DBManager.cs",
+              "RelativeDocumentMoniker": "ECommerceDALLib\\ORM\\DBManager.cs",
+              "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\ECommerceDALLib\\ORM\\DBManager.cs",
+              "RelativeToolTip": "ECommerceDALLib\\ORM\\DBManager.cs",
+              "ViewState": "AQIAAAYAAAAAPzMzM7MSwBgAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T13:29:25.924Z"
+              "WhenOpened": "2024-11-29T11:27:57.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\ORMTestApp\\Program.cs",
+              "RelativeDocumentMoniker": "ORMTestApp\\Program.cs",
+              "ToolTip": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerce\\ORMTestApp\\Program.cs",
+              "RelativeToolTip": "ORMTestApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:27:24.271Z",
+              "EditorCaption": ""
             }
           ]
         }

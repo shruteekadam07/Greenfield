@@ -194,3 +194,6 @@ C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\EcommerceWebApp\bin\Orderproc
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\EcommerceWebApp\bin\Orderprocessing.pdb
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\EcommerceWebApp\bin\ECommerceDALLib.dll
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\EcommerceWebApp\bin\ECommerceDALLib.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\EcommerceWebApp\bin\EntityFramework.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\EcommerceWebApp\bin\ECommerceDALLib.dll.config
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\EcommerceWebApp\bin\EntityFramework.xml

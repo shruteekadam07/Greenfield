@@ -35,3 +35,6 @@ C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\obj\Debug\ECommerceS
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\obj\Debug\ECommerceServices.pdb
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\bin\Debug\ECommerceDALLib.dll
 C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\bin\Debug\ECommerceDALLib.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\bin\Debug\EntityFramework.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\bin\Debug\ECommerceDALLib.dll.config
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerce\Services\bin\Debug\EntityFramework.xml
