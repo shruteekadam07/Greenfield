@@ -1,0 +1,13 @@
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerceCore\Catalog\obj\Debug\net8.0\Catalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerceCore\Catalog\obj\Debug\net8.0\Catalog.AssemblyInfoInputs.cache
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerceCore\Catalog\obj\Debug\net8.0\Catalog.AssemblyInfo.cs
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerceCore\Catalog\obj\Debug\net8.0\Catalog.csproj.CoreCompileInputs.cache
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerceCore\Catalog\obj\Debug\net8.0\Catalog.sourcelink.json
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerceCore\Catalog\obj\Debug\net8.0\Catalog.csproj.AssemblyReference.cache
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerceCore\Catalog\bin\Debug\net8.0\Catalog.deps.json
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerceCore\Catalog\bin\Debug\net8.0\Catalog.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerceCore\Catalog\bin\Debug\net8.0\Catalog.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerceCore\Catalog\obj\Debug\net8.0\Catalog.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerceCore\Catalog\obj\Debug\net8.0\refint\Catalog.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerceCore\Catalog\obj\Debug\net8.0\Catalog.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerceCore\Catalog\obj\Debug\net8.0\ref\Catalog.dll

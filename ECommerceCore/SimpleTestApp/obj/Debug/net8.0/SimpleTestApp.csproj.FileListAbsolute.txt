@@ -1,0 +1,15 @@
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerceCore\SimpleTestApp\bin\Debug\net8.0\SimpleTestApp.exe
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerceCore\SimpleTestApp\bin\Debug\net8.0\SimpleTestApp.deps.json
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerceCore\SimpleTestApp\bin\Debug\net8.0\SimpleTestApp.runtimeconfig.json
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerceCore\SimpleTestApp\bin\Debug\net8.0\SimpleTestApp.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerceCore\SimpleTestApp\bin\Debug\net8.0\SimpleTestApp.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerceCore\SimpleTestApp\obj\Debug\net8.0\SimpleTestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerceCore\SimpleTestApp\obj\Debug\net8.0\SimpleTestApp.AssemblyInfoInputs.cache
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerceCore\SimpleTestApp\obj\Debug\net8.0\SimpleTestApp.AssemblyInfo.cs
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerceCore\SimpleTestApp\obj\Debug\net8.0\SimpleTestApp.csproj.CoreCompileInputs.cache
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerceCore\SimpleTestApp\obj\Debug\net8.0\SimpleTestApp.sourcelink.json
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerceCore\SimpleTestApp\obj\Debug\net8.0\SimpleTestApp.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerceCore\SimpleTestApp\obj\Debug\net8.0\refint\SimpleTestApp.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerceCore\SimpleTestApp\obj\Debug\net8.0\SimpleTestApp.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerceCore\SimpleTestApp\obj\Debug\net8.0\SimpleTestApp.genruntimeconfig.cache
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerceCore\SimpleTestApp\obj\Debug\net8.0\ref\SimpleTestApp.dll
