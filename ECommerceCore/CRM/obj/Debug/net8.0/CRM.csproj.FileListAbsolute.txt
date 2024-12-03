@@ -1,0 +1,13 @@
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerceCore\CRM\bin\Debug\net8.0\CRM.deps.json
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerceCore\CRM\bin\Debug\net8.0\CRM.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerceCore\CRM\bin\Debug\net8.0\CRM.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerceCore\CRM\obj\Debug\net8.0\CRM.csproj.AssemblyReference.cache
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerceCore\CRM\obj\Debug\net8.0\CRM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerceCore\CRM\obj\Debug\net8.0\CRM.AssemblyInfoInputs.cache
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerceCore\CRM\obj\Debug\net8.0\CRM.AssemblyInfo.cs
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerceCore\CRM\obj\Debug\net8.0\CRM.csproj.CoreCompileInputs.cache
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerceCore\CRM\obj\Debug\net8.0\CRM.sourcelink.json
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerceCore\CRM\obj\Debug\net8.0\CRM.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerceCore\CRM\obj\Debug\net8.0\refint\CRM.dll
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerceCore\CRM\obj\Debug\net8.0\CRM.pdb
+C:\Users\shruti.kadam\Desktop\greenfield\ECommerceCore\CRM\obj\Debug\net8.0\ref\CRM.dll

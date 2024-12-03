@@ -1,0 +1,30 @@
+﻿﻿﻿@{
+    ViewBag.Title = "Register";
+}
+<h2>Register</h2>
+
+<hr />
+<form method="post" action="/auth/Register">
+    <table>
+        <tr>
+            <td>First Name</td>
+            <td><input type="text" name="firstname" id="firstname" /></td>
+        </tr>
+        <tr>
+            <td>Last Name</td>
+            <td><input type="text" name="lastname" id="lastname" /></td>
+        </tr>
+        <tr>
+            <td>Email</td>
+            <td><input type="email" name="email" id="email" /></td>
+        </tr>
+        <tr>
+            <td>Password</td>
+            <td><input type="text" name="password" id="password" /></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><button type="submit">Register</button></td>
+        </tr>
+    </table>
+</form>

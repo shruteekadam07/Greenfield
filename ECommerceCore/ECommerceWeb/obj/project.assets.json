@@ -598,6 +598,19 @@
         "runtime": {
           "bin/placeholder/Catalog.dll": {}
         }
+      },
+      "CRM/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.Data.SqlClient": "5.2.2"
+        },
+        "compile": {
+          "bin/placeholder/CRM.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CRM.dll": {}
+        }
       }
     }
   },
@@ -1697,10 +1710,16 @@
       "type": "project",
       "path": "../Catalog/Catalog.csproj",
       "msbuildProject": "../Catalog/Catalog.csproj"
+    },
+    "CRM/1.0.0": {
+      "type": "project",
+      "path": "../CRM/CRM.csproj",
+      "msbuildProject": "../CRM/CRM.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "CRM >= 1.0.0",
       "Catalog >= 1.0.0"
     ]
   },
@@ -1733,6 +1752,9 @@
           "projectReferences": {
             "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerceCore\\Catalog\\Catalog.csproj": {
               "projectPath": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerceCore\\Catalog\\Catalog.csproj"
+            },
+            "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerceCore\\CRM\\CRM.csproj": {
+              "projectPath": "C:\\Users\\shruti.kadam\\Desktop\\greenfield\\ECommerceCore\\CRM\\CRM.csproj"
             }
           }
         }

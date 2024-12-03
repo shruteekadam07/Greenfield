@@ -1,0 +1,14 @@
+﻿﻿﻿@using CRM.Entities;
+
+@{
+    ViewData["Title"] = "Index Page";
+}
+
+@{
+    List<User> users = null;
+    users = (List<User>)ViewData["users"];
+    foreach (User user in users)
+    {
+        <p>@user.Id   @user.FirstName   @user.LastName</p>
+    }
+}
